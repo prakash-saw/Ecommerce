@@ -300,35 +300,50 @@ class PaymentService {
       throw new Error('Missing x-razorpay-event-id header');
     }
 
-    // Webhook idempotency
-    const existingEvent = await WebhookEvent.findOne({ eventId });
-    if (existingEvent && existingEvent.isProcessed) {
-      return { status: 'already_processed', eventId };
+    if (!signature) {
+      throw new Error('Missing x-razorpay-signature header');
     }
 
     // Webhook cryptographic signature verification
     const webhookSecret = process.env.RAZORPAY_WEBHOOK_SECRET || this.webhookSecret;
-    if (webhookSecret) {
-      const expectedSignature = crypto
-        .createHmac('sha256', webhookSecret)
-        .update(rawBody)
-        .digest('hex');
+    if (!webhookSecret) {
+      throw new Error('RAZORPAY_WEBHOOK_SECRET is not configured on the server. Cannot verify webhook signature.');
+    }
 
-      if (
-        Buffer.byteLength(expectedSignature) !== Buffer.byteLength(signature || '') ||
-        !crypto.timingSafeEqual(Buffer.from(expectedSignature), Buffer.from(signature || ''))
-      ) {
-        throw new Error('Invalid Razorpay Webhook signature');
-      }
+    const expectedSignature = crypto
+      .createHmac('sha256', webhookSecret)
+      .update(rawBody)
+      .digest('hex');
+
+    if (
+      Buffer.byteLength(expectedSignature) !== Buffer.byteLength(signature) ||
+      !crypto.timingSafeEqual(Buffer.from(expectedSignature), Buffer.from(signature))
+    ) {
+      throw new Error('Invalid Razorpay Webhook signature');
+    }
+
+    // Webhook idempotency: atomic deduplication check
+    const existingEvent = await WebhookEvent.findOne({ eventId });
+    if (existingEvent) {
+      return { status: 'already_processed', eventId };
     }
 
     const payload = JSON.parse(rawBody.toString());
-    const webhookRecord = new WebhookEvent({
-      eventId,
-      provider: 'razorpay',
-      eventType: payload.event,
-      payload
-    });
+    let webhookRecord;
+    try {
+      webhookRecord = await WebhookEvent.create({
+        eventId,
+        provider: 'razorpay',
+        eventType: payload.event,
+        payload,
+        isProcessed: false
+      });
+    } catch (dupErr) {
+      if (dupErr.code === 11000) {
+        return { status: 'already_processed', eventId };
+      }
+      throw dupErr;
+    }
 
     if (payload.event === 'payment.captured') {
       const paymentEntity = payload.payload?.payment?.entity;

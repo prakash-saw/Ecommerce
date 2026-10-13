@@ -65,9 +65,9 @@ exports.handleWebhook = async (req, res) => {
       eventId
     });
 
-    res.json({ status: 'ok', result });
+    res.json({ success: true, status: 'ok', result });
   } catch (err) {
     console.error('Webhook processing error:', err.message);
-    res.status(400).json({ status: 'error', message: err.message });
+    res.status(400).json({ success: false, status: 'error', message: err.message });
   }
 };

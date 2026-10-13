@@ -44,12 +44,23 @@ async function runBackupAndReset(options = { dryRun: true }) {
 
   console.log(`Connected to Database: "${dbName}" at ${host}:${port}`);
 
-  // Safeguard 1 & 2: Environment verification
-  const isLocalHost = ['localhost', '127.0.0.1', '::1'].includes(host);
-  const isDevOrTestDb = ['test', 'dev', 'development', 'ecommerce_dev', 'blanc_dev'].includes(dbName.toLowerCase());
+  // Safeguard 1: Prohibit execution in production environment
+  if (process.env.NODE_ENV === 'production') {
+    console.error('[CRITICAL SAFEGUARD] Aborting! Database reset script cannot be executed in production environment.');
+    process.exit(1);
+  }
 
-  if (!isLocalHost && !isDevOrTestDb) {
-    console.error(`[CRITICAL SAFEGUARD] Aborting! Connected to host "${host}" and db "${dbName}", which is not positively identified as a local dev/test environment.`);
+  // Safeguard 2: Require local host strictly
+  const isLocalHost = ['localhost', '127.0.0.1', '::1'].includes(host);
+  if (!isLocalHost) {
+    console.error(`[CRITICAL SAFEGUARD] Aborting! Connected host "${host}" is remote. Data reset is strictly prohibited on non-local databases.`);
+    process.exit(1);
+  }
+
+  // Safeguard 3: Prohibit live/production database names
+  const prohibitedNames = ['production', 'prod', 'live', 'primary'];
+  if (prohibitedNames.includes(dbName.toLowerCase())) {
+    console.error(`[CRITICAL SAFEGUARD] Aborting! Database name "${dbName}" indicates a production database.`);
     process.exit(1);
   }
 
@@ -151,8 +162,17 @@ async function runBackupAndReset(options = { dryRun: true }) {
       console.log(`  - [SIMULATED CLEAR] ${colName}: ${meta.count} records`);
     }
     console.log(`  - [SIMULATED CLEAR] uploads/artwork: ${manifest.uploadFiles.length} files`);
-    console.log('\n[INFO] To perform actual deletion, run with: node src/scripts/backupAndReset.js --execute');
+    console.log('\n[INFO] To perform actual deletion, you must specify: node src/scripts/backupAndReset.js --execute --confirm-reset with ALLOW_DB_RESET=true');
   } else {
+    // Explicit confirmation check
+    if (!options.confirmed || process.env.ALLOW_DB_RESET !== 'true') {
+      console.error('\n[CRITICAL SAFEGUARD] Execution aborted!');
+      console.error('Data reset requires BOTH explicit CLI flag: --confirm-reset');
+      console.error('AND environment variable: ALLOW_DB_RESET=true');
+      await mongoose.disconnect();
+      process.exit(1);
+    }
+
     console.log('\n--- STEP 3: EXECUTING DATABASE DATA RESET ---');
 
     for (const colName of targetCollections) {
@@ -215,7 +235,8 @@ async function runBackupAndReset(options = { dryRun: true }) {
 if (require.main === module) {
   const args = process.argv.slice(2);
   const isExecute = args.includes('--execute');
-  runBackupAndReset({ dryRun: !isExecute })
+  const isConfirmed = args.includes('--confirm-reset');
+  runBackupAndReset({ dryRun: !isExecute, confirmed: isConfirmed })
     .then(() => process.exit(0))
     .catch((err) => {
       console.error('Fatal execution error:', err);

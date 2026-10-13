@@ -29,9 +29,9 @@ exports.requestSignupOtp = async (req, res) => {
       return res.status(400).json({ success: false, message: 'Password must be at least 6 characters.' });
     }
 
-    // Check if account already exists
+    // Check if account already exists and is verified
     const existingUser = await User.findOne({ email: trimmedEmail });
-    if (existingUser) {
+    if (existingUser && existingUser.isEmailVerified) {
       return res.status(400).json({ success: false, message: 'An account with this email already exists.' });
     }
 
@@ -439,7 +439,7 @@ exports.register = async (req, res) => {
       passwordHash,
       phone: phone ? phone.trim() : '',
       role: 'customer',
-      isEmailVerified: true
+      isEmailVerified: false // Strict security: OTP verification is mandatory for verified status
     });
     await user.save();
 
@@ -447,6 +447,7 @@ exports.register = async (req, res) => {
 
     res.status(201).json({
       success: true,
+      message: 'Account created. Email verification via OTP is required before placing orders.',
       token,
       user: {
         id: user._id,
@@ -460,7 +461,11 @@ exports.register = async (req, res) => {
       }
     });
   } catch (err) {
-    res.status(500).json({ success: false, message: err.message });
+    console.error('Register error:', err);
+    res.status(500).json({
+      success: false,
+      message: process.env.NODE_ENV === 'production' ? 'Registration failed. Please try again.' : err.message
+    });
   }
 };
 

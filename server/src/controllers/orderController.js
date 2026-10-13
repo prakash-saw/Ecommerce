@@ -35,6 +35,13 @@ exports.createOrder = async (req, res) => {
 
     const chosenPaymentMethod = paymentMethod === 'COD' ? 'COD' : 'PREPAID';
 
+    if (req.user && !req.user.isEmailVerified) {
+      return res.status(403).json({
+        success: false,
+        message: 'Email verification required before checkout, payment initiation, or order placement.'
+      });
+    }
+
     if (!customer?.name || !customer?.email || !customer?.phone) {
       return res.status(400).json({ success: false, message: 'Customer name, email and phone are required.' });
     }
@@ -348,6 +355,13 @@ exports.retryPayment = async (req, res) => {
       if (!req.user || (req.user._id.toString() !== order.userId.toString() && req.user.role !== 'admin')) {
         return res.status(403).json({ success: false, message: 'Access denied: You do not have permission to modify this order.' });
       }
+    }
+
+    if (req.user && !req.user.isEmailVerified) {
+      return res.status(403).json({
+        success: false,
+        message: 'Email verification required before checkout, payment initiation, or order placement.'
+      });
     }
 
     if (order.orderStatus === 'CONFIRMED' || order.paymentStatus === 'PAID') {

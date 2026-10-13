@@ -903,8 +903,16 @@ exports.cancelOrder = async (req, res) => {
     order.fulfilmentStatus = 'cancelled';
     order.rejectionReason = reason;
 
-    // Restore inventory atomically if requested
-    if (restoreStock && order.items && order.items.length > 0) {
+    // Restore inventory atomically only if stock was actually deducted
+    // (prepaid orders only deduct stock upon verification; COD deducts upon creation)
+    const stockWasDeducted = ['CONFIRMED', 'PROCESSING', 'SHIPPED'].includes(oldStatus) ||
+      ['in_production', 'packed', 'shipped'].includes(order.fulfilmentStatus) ||
+      order.paymentStatus === 'PAID' ||
+      order.payment?.status === 'captured' ||
+      order.paymentMethod === 'COD';
+    let actualStockRestored = false;
+
+    if (restoreStock && stockWasDeducted && order.items && order.items.length > 0) {
       for (const item of order.items) {
         if (!item.isCustom) {
           const variant = await ProductVariant.findOne({
@@ -932,6 +940,7 @@ exports.cancelOrder = async (req, res) => {
               orderId: order._id,
               adminEmail: req.user?.email || 'admin@blancatelier.com'
             });
+            actualStockRestored = true;
           }
         }
       }
@@ -945,10 +954,14 @@ exports.cancelOrder = async (req, res) => {
       refundNote = 'Order queued for refund per store cancellation policy.';
     }
 
+    const stockStatusText = !stockWasDeducted
+      ? 'Stock was not deducted prior to cancellation.'
+      : (actualStockRestored ? 'Stock restored.' : 'Stock not restored.');
+
     order.auditLog.push({
       actor: req.user?.email || 'Admin',
       action: 'Order Cancelled',
-      note: `${reason}. ${restoreStock ? 'Stock restored.' : 'Stock not restored.'} ${refundNote}`,
+      note: `${reason}. ${stockStatusText} ${refundNote}`,
       timestamp: new Date()
     });
 

@@ -160,7 +160,7 @@ exports.getSettings = async (req, res) => {
       fulfillmentMode: PODService.mode,
       pricing: POD_PRICING,
       specifications: PRINT_SPECIFICATIONS,
-      providerConfigured: !!process.env.POD_PROVIDER_API_KEY,
+      providerConfigured: false, // Manual workshop fulfillment active; third-party provider integration unverified
       paymentConfigured: !!(process.env.RAZORPAY_KEY_ID && process.env.RAZORPAY_KEY_SECRET)
     }
   });

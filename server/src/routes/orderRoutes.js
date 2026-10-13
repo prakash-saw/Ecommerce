@@ -1,10 +1,10 @@
 const express = require('express');
 const router = express.Router();
 const orderController = require('../controllers/orderController');
-const { optionalAuth, requireAuth } = require('../middleware/auth');
+const { optionalAuth, requireAuth, requireVerifiedEmail } = require('../middleware/auth');
 
-router.post('/create', requireAuth, orderController.createOrder);
-router.post('/:id/retry-payment', requireAuth, orderController.retryPayment);
+router.post('/create', requireAuth, requireVerifiedEmail, orderController.createOrder);
+router.post('/:id/retry-payment', requireAuth, requireVerifiedEmail, orderController.retryPayment);
 router.get('/my-orders', requireAuth, orderController.getCustomerOrders);
 router.get('/track/:orderNumber', orderController.trackOrderByNumber);
 router.get('/:id', requireAuth, orderController.getOrderById);

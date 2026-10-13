@@ -18,4 +18,9 @@ const productVariantSchema = new mongoose.Schema({
   timestamps: true
 });
 
+productVariantSchema.index({ productId: 1, isActive: 1 });
+productVariantSchema.index({ productId: 1, size: 1, isActive: 1 });
+productVariantSchema.index({ size: 1, isActive: 1, stockQuantity: 1 });
+productVariantSchema.index({ 'color.id': 1, isActive: 1, stockQuantity: 1 });
+
 module.exports = mongoose.model('ProductVariant', productVariantSchema);

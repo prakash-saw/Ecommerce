@@ -62,4 +62,15 @@ const productSchema = new mongoose.Schema({
   timestamps: true
 });
 
+productSchema.index({ isActive: 1, category: 1, basePricePaise: 1 });
+productSchema.index({ isActive: 1, isCustomizable: 1, featured: -1 });
+productSchema.index({
+  name: 'text',
+  description: 'text',
+  tags: 'text',
+  category: 'text',
+  'fabric.fit': 'text',
+  'fabric.material': 'text'
+});
+
 module.exports = mongoose.model('Product', productSchema);

@@ -45,60 +45,58 @@ class BasePODProviderAdapter {
 }
 
 /**
- * Fallback Adapter used when automated provider is selected without live API keys.
- * Safely defaults to manual fulfillment without pretending unverified printing happened.
+ * NullPODProviderAdapter:
+ * Safe null adapter ensuring no simulated provider success, synthetic IDs,
+ * fixed stock claims, or fabricated status updates occur in fulfillment flows.
+ * Manual fulfillment remains authoritative unless a verified real provider adapter is integrated.
  */
 class NullPODProviderAdapter extends BasePODProviderAdapter {
   constructor(config = {}) {
     super(config);
-    this.name = 'StandardFactoryProvider';
+    this.name = 'ManualWorkshopFulfillment';
   }
 
   async checkConnection() {
     return {
-      connected: !!this.config.apiKey,
-      provider: 'Factory Partner Network',
-      message: this.config.apiKey ? 'Connected to Provider' : 'No API key configured. Manual workshop fulfilment active.'
+      connected: false,
+      provider: 'None (Manual Fulfillment)',
+      message: 'No live external POD provider connected. Dedicated atelier workshop manual fulfillment is active.'
     };
   }
 
   async checkVariantAvailability(providerSku) {
     return {
       sku: providerSku,
-      isAvailable: true,
-      stockCount: 100
+      isAvailable: false,
+      stockCount: null,
+      message: 'Automated provider stock sync not available. Use atelier catalogue inventory.'
     };
   }
 
   async submitProductionOrder(orderData) {
+    // Never simulate provider success or generate synthetic order IDs
     if (!this.config.apiKey) {
       throw new Error('Cannot submit to automated provider: Missing POD_PROVIDER_API_KEY. Defaulting to manual fulfillment.');
     }
-
-    const providerOrderId = `POD-${Date.now()}`;
-    return {
-      success: true,
-      providerOrderId,
-      status: 'SUBMITTED_TO_QUEUE',
-      estimatedDispatchDays: 3,
-      submittedAt: new Date().toISOString()
-    };
+    throw new Error('Cannot submit to automated provider: No verified third-party POD provider adapter implemented. Fulfill orders manually via atelier workshop.');
   }
 
   async syncProductionStatus(providerOrderId) {
     return {
+      success: false,
       providerOrderId,
-      status: 'IN_PRODUCTION',
-      trackingNumber: null
+      status: null,
+      message: 'Status synchronization unavailable without an active provider integration.'
     };
   }
 
   async cancelProductionOrder(providerOrderId, reason) {
     return {
-      success: true,
+      success: false,
       providerOrderId,
-      status: 'CANCELLED',
-      reason
+      status: null,
+      reason,
+      message: 'Automated cancellation unavailable without active provider adapter.'
     };
   }
 }

@@ -93,7 +93,7 @@ npm run dev
 
 - **Frontend**: `http://localhost:5173/`
 - **Backend API**: `http://localhost:5000/api`
-- **Default Admin Account**: `admin@blancatelier.com` / `admin123`
+- **Admin Setup**: Configure `ADMIN_EMAIL` and `ADMIN_PASSWORD` in `server/.env` to provision an administrator account securely.
 
 ---
 

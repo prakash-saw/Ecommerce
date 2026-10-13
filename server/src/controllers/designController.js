@@ -18,7 +18,6 @@ exports.uploadArtwork = async (req, res) => {
     const { originalname, mimetype, size, filename } = req.file;
     const ownerId = req.user ? req.user._id.toString() : (req.headers['x-guest-session'] || 'guest_anon');
 
-    // Assume standard 1000x1000px if dimension probe is unavailable without native deps
     const width = parseInt(req.body.width, 10) || 1200;
     const height = parseInt(req.body.height, 10) || 1200;
 
@@ -26,12 +25,15 @@ exports.uploadArtwork = async (req, res) => {
       width,
       height,
       fileSizeBytes: size,
-      mimeType: mimetype
+      mimeType: mimetype,
+      filePath: req.file.path
     });
 
     if (!validation.isValid) {
-      // Remove file
-      fs.unlinkSync(req.file.path);
+      // Remove invalid/malicious file
+      if (fs.existsSync(req.file.path)) {
+        fs.unlinkSync(req.file.path);
+      }
       return res.status(400).json({
         success: false,
         message: 'Artwork validation failed',
@@ -50,8 +52,8 @@ exports.uploadArtwork = async (req, res) => {
       mimeType: mimetype,
       fileSizeBytes: size,
       dimensions: {
-        width,
-        height,
+        width: validation.detectedWidth || width,
+        height: validation.detectedHeight || height,
         dpi: validation.estimatedDpi
       },
       uploadOwner: ownerId
@@ -164,8 +166,11 @@ exports.saveDesign = async (req, res) => {
         if (existingDesign.isLocked) {
           return res.status(400).json({ success: false, message: 'This design version is attached to a paid order and is locked.' });
         }
-        if (req.user && req.user.role !== 'admin' && existingDesign.ownerId !== req.user._id.toString()) {
-          return res.status(403).json({ success: false, message: 'You do not have permission to modify this design.' });
+        const isAdmin = req.user && req.user.role === 'admin';
+        const isOwner = (req.user && existingDesign.ownerId === req.user._id.toString()) ||
+                        (!req.user && existingDesign.ownerId === ownerId);
+        if (!isOwner && !isAdmin) {
+          return res.status(403).json({ success: false, message: 'Access denied: You do not have permission to modify this design.' });
         }
       }
     }

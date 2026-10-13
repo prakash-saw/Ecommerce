@@ -1,6 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert');
 const crypto = require('crypto');
+const bcrypt = require('bcryptjs');
 const mongoose = require('mongoose');
 const { MongoMemoryServer } = require('mongodb-memory-server');
 const app = require('../src/server');
@@ -96,19 +97,39 @@ test('End-to-End Customer & Admin Flow Test', async () => {
     assert.strictEqual(addData.cart.items.length, 1);
     console.log('✓ Added custom item to cart. Total:', addData.cart.totalAmountPaise, 'paise');
 
-    // 4. Authenticate customer (Mandatory login before checkout) & Create Order
-    const authRes = await fetch(`${base}/auth/register`, {
+    // 4. Authenticate customer with verified OTP signup before checkout & Create Order
+    const customerEmail = `kabir.sharma.${Date.now()}@gmail.com`;
+    const reqOtpRes = await fetch(`${base}/auth/signup/request-otp`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         name: 'Kabir Sharma',
-        email: `kabir.sharma.${Date.now()}@gmail.com`,
+        email: customerEmail,
         password: 'Password123!',
         phone: '9876543210'
       })
     });
-    const authData = await authRes.json();
+    const reqOtpData = await reqOtpRes.json();
+    assert.strictEqual(reqOtpData.success, true);
+
+    const OtpToken = require('../src/models/OtpToken');
+    const otpRec = await OtpToken.findOne({ email: customerEmail, purpose: 'signup', isUsed: false });
+    assert.ok(otpRec);
+    const knownOtp = '555777';
+    otpRec.otpHash = await bcrypt.hash(knownOtp, 8);
+    await otpRec.save();
+
+    const verifyRes = await fetch(`${base}/auth/signup/verify-otp`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        email: customerEmail,
+        otp: knownOtp
+      })
+    });
+    const authData = await verifyRes.json();
     assert.strictEqual(authData.success, true);
+    assert.strictEqual(authData.user.isEmailVerified, true);
     headers['Authorization'] = `Bearer ${authData.token}`;
 
     const orderRes = await fetch(`${base}/orders/create`, {
@@ -118,7 +139,7 @@ test('End-to-End Customer & Admin Flow Test', async () => {
         paymentMethod: 'PREPAID',
         customer: {
           name: 'Kabir Sharma',
-          email: 'kabir.sharma@gmail.com',
+          email: customerEmail,
           phone: '9876543210'
         },
         shippingAddress: {

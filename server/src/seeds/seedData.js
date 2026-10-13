@@ -5,20 +5,32 @@ const ProductVariant = require('../models/ProductVariant');
 
 const seedDatabase = async () => {
   try {
-    // 1. Seed Admin & Test Customer
-    const adminEmail = 'admin@blancatelier.com';
-    let admin = await User.findOne({ email: adminEmail });
-    if (!admin) {
-      const salt = await bcrypt.genSalt(10);
-      const hash = await bcrypt.hash('admin123', salt);
-      admin = new User({
-        name: 'Atelier Director',
-        email: adminEmail,
-        passwordHash: hash,
-        role: 'admin'
-      });
-      await admin.save();
-      console.log('Seeded Admin account: admin@blancatelier.com / admin123');
+    // 1. Seed Admin (configurable via environment variables)
+    const adminEmail = process.env.ADMIN_EMAIL || (process.env.NODE_ENV !== 'production' ? 'admin@blancatelier.com' : null);
+    const adminPassword = process.env.ADMIN_PASSWORD || (process.env.NODE_ENV !== 'production' ? 'admin123' : null);
+
+    let adminUser = null;
+    if (adminEmail && adminPassword) {
+      adminUser = await User.findOne({ email: adminEmail });
+      if (!adminUser) {
+        const salt = await bcrypt.genSalt(10);
+        const hash = await bcrypt.hash(adminPassword, salt);
+        adminUser = new User({
+          name: 'Atelier Director',
+          email: adminEmail,
+          passwordHash: hash,
+          role: 'admin',
+          isEmailVerified: true
+        });
+        await adminUser.save();
+        if (process.env.NODE_ENV !== 'production') {
+          console.log(`Seeded dev admin account: ${adminEmail}`);
+        } else {
+          console.log('Initialized production admin account from environment.');
+        }
+      }
+    } else if (process.env.NODE_ENV === 'production') {
+      console.log('Admin provisioning: Set ADMIN_EMAIL and ADMIN_PASSWORD in environment to create initial admin.');
     }
 
     // 2. Check if products already exist
@@ -240,10 +252,10 @@ const seedDatabase = async () => {
     // Seed Reviews if none exist
     const Review = require('../models/Review');
     const reviewCount = await Review.countDocuments();
-    if (reviewCount === 0 && allProducts.length > 0 && admin) {
+    if (reviewCount === 0 && allProducts.length > 0 && adminUser) {
       await Review.create([
         {
-          userId: admin._id,
+          userId: adminUser._id,
           productId: allProducts[0]._id,
           customerName: 'Aarav M.',
           rating: 5,
@@ -254,7 +266,7 @@ const seedDatabase = async () => {
           isHidden: false
         },
         {
-          userId: admin._id,
+          userId: adminUser._id,
           productId: allProducts[1]?._id || allProducts[0]._id,
           customerName: 'Rhea S.',
           rating: 5,
