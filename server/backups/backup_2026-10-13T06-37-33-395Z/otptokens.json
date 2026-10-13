@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "6acdd08a873c3c83ebdf8f1d",
+    "email": "prakashsawsaw79@gmail.com",
+    "otpHash": "$2a$10$oHuq7j6LByg3xLoeHJ.qn.dfIH4XoU3vug1nW7w6XGJqWUEX4aeEG",
+    "purpose": "signup",
+    "pendingUserData": {
+      "name": "Prakash saw",
+      "passwordHash": "$2a$10$oHuq7j6LByg3xLoeHJ.qn.GPIIkQKBsiBBgh1v9DvGnsD4EAHFuKG",
+      "phone": "8409284311"
+    },
+    "attempts": 0,
+    "maxAttempts": 5,
+    "expiresAt": "2026-10-13T06:37:42.011Z",
+    "resendAvailableAt": "2026-10-13T06:33:42.011Z",
+    "isUsed": false,
+    "resetTokenHash": null,
+    "resetTokenExpiresAt": null,
+    "createdAt": "2026-10-13T06:32:42.021Z",
+    "updatedAt": "2026-10-13T06:32:42.021Z",
+    "__v": 0
+  }
+]

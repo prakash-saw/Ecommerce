@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "6acd0141dce2d5406f783ff9",
+    "isActive": true,
+    "pointsPerHundredRupees": 5,
+    "referrerBonusPoints": 150,
+    "referredDiscountPercent": 10,
+    "minOrderValuePaise": 99900,
+    "pointsToRupeeRatio": 1,
+    "maxRedemptionDiscountPercent": 30,
+    "coupons": [],
+    "createdAt": "2026-10-12T15:48:17.707Z",
+    "updatedAt": "2026-10-12T15:48:17.707Z",
+    "__v": 0
+  }
+]

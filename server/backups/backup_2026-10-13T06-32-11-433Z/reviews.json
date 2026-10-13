@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "6acd00ecdce2d5406f783efe",
+    "userId": "6accfa920e77865350736c49",
+    "productId": "6accfa080e77865350736b17",
+    "customerName": "prakash77saw@gmail.com3",
+    "rating": 4,
+    "title": "best producr",
+    "comment": "hii",
+    "photos": [],
+    "isVerifiedPurchase": false,
+    "verifiedOrderId": null,
+    "isHidden": false,
+    "moderationNotes": "",
+    "reportCount": 0,
+    "reports": [],
+    "createdAt": "2026-10-12T15:46:52.160Z",
+    "updatedAt": "2026-10-12T15:46:52.160Z",
+    "__v": 0
+  }
+]

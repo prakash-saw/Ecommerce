@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-10-13T06:31:23.010Z",
+  "databaseName": "test",
+  "host": "localhost",
+  "collections": {
+    "users": {
+      "count": 42,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\users.json",
+      "sha256": "52eda78812607af8fc2c7310ef528950ae8dd2f5b0db71e90de6df48ce5e6efb"
+    },
+    "products": {
+      "count": 6,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\products.json",
+      "sha256": "7f973d2a5b4d4d16fc84260555d891cf12e0e34ef5659084eb6bdfb331f68a82"
+    },
+    "productvariants": {
+      "count": 80,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\productvariants.json",
+      "sha256": "136d8714fbef6e5fba64def06b491dbcdc825d88475bbc6fd8939c4eb7802a21"
+    },
+    "collections": {
+      "count": 2,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\collections.json",
+      "sha256": "6999097dd07c50220eb40125b6ba3954a6b14564b2bd4569879b74f94f5e4077"
+    },
+    "inventorymovements": {
+      "count": 10,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\inventorymovements.json",
+      "sha256": "d41fc4b9cbc2fc9b297e54fdff5c65658e51d190c0537c5f78a2262f4de6573d"
+    },
+    "orders": {
+      "count": 37,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\orders.json",
+      "sha256": "afa6fbd04525973243625053c20693518d6ce7f0db4ec06abcb9baacca62f24b"
+    },
+    "payments": {
+      "count": 34,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\payments.json",
+      "sha256": "a54d92ec2895439dce17a10c7f5ce8a0a3f4153164da300388298d4f61de5b7d"
+    },
+    "carts": {
+      "count": 32,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\carts.json",
+      "sha256": "32a53c278519290ea3d4e96a90a331af51a66119dca6e157a7ec5c8e3659a5d4"
+    },
+    "wishlists": {
+      "count": 33,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\wishlists.json",
+      "sha256": "3fb98b56f2e5770a04b8669da6cbdd9a2de0f10d234646ca90dd372c5bf59d45"
+    },
+    "customdesigns": {
+      "count": 31,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\customdesigns.json",
+      "sha256": "0ce5c9c4c377ec2cdafa77f0ed0b8feb9b78cc4d2d3a0cecaa3a83fa99e1528d"
+    },
+    "designassets": {
+      "count": 2,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\designassets.json",
+      "sha256": "921c312213341b30d86676c3f8a253079c098ce9b9d3b657cd5813b18f488421"
+    },
+    "podjobs": {
+      "count": 27,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\podjobs.json",
+      "sha256": "9b3d1771f04a111a80968f74a53c613233af67f2e102139ccac30b8201e4995a"
+    },
+    "drops": {
+      "count": 2,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\drops.json",
+      "sha256": "a98b6620de5e3a2e0ec41506d9558de8c3f7f046ca590e59fdc54ec41c9ccf70"
+    },
+    "coupons": {
+      "count": 3,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\coupons.json",
+      "sha256": "34ab5bcc211041ed1f8e0a680dd685b03bfe8320a5b83af7b0faff33566661be"
+    },
+    "reviews": {
+      "count": 1,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\reviews.json",
+      "sha256": "70d5b36a57780ea6964ed6332fad7a07970e0b657c58d5587219c4edc87c2784"
+    },
+    "supporttickets": {
+      "count": 2,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\supporttickets.json",
+      "sha256": "b1017ed05226ed331cd6ef35cee75e56d230d7553db351aa74a9216c95b3418f"
+    },
+    "rewardaccounts": {
+      "count": 8,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\rewardaccounts.json",
+      "sha256": "1a4bcc0da587b8ad55070dfc84ff2ac017b379d3435a6a5f108a5bb174cc6155"
+    },
+    "rewardconfigs": {
+      "count": 1,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\rewardconfigs.json",
+      "sha256": "6ab26391dcbc211a9a1aa21a4b8d947742e787af83b64b36cdbfe9ca8fcbd380"
+    },
+    "otptokens": {
+      "count": 3,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\otptokens.json",
+      "sha256": "91bcf436a6ea111ff346620f0ae8c69c7d4d11be93e6a089925c0406a376c8ea"
+    },
+    "adminauditlogs": {
+      "count": 9,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\adminauditlogs.json",
+      "sha256": "9838bdd83a7ed3458de21b1f8762491e88f73709033fe646b1038e150b16c30d"
+    },
+    "storesettings": {
+      "count": 1,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\storesettings.json",
+      "sha256": "c990728e1f4727b2520ad7cc992d7eff4274c82e581a9f73235fcd0666776095"
+    },
+    "webhookevents": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-31-23-008Z\\webhookevents.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    }
+  },
+  "totalDocuments": 366,
+  "uploadFiles": [
+    "art_1791817008221_Screenshot_2026-10-05_222050_1b2ef1b43a8a6bea.png",
+    "art_1791817033264_DSC01614_JPG_4bad713aa8103612.jpg",
+    "art_1791823500488_Screenshot_2026-10-05_222050_68892df37ee57455.png",
+    "art_1791871234722_Screenshot_2026-10-05_222050_8bcdabffae3e8c2b.png"
+  ]
+}

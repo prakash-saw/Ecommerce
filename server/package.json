@@ -1,0 +1,31 @@
+{
+  "name": "blanc-ecommerce-server",
+  "version": "1.0.0",
+  "description": "Premium Minimalist T-shirt Ecommerce and Print-on-Demand Studio API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/seeds/seed.js",
+    "test": "node --test",
+    "inspect:db": "node src/scripts/inspectDb.js",
+    "reset:dry": "node src/scripts/backupAndReset.js",
+    "reset:data": "node src/scripts/backupAndReset.js --execute"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.5",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^10.1.0",
+    "razorpay": "^2.9.5"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^10.1.3"
+  }
+}

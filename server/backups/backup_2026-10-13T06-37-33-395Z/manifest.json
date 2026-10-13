@@ -1,0 +1,119 @@
+{
+  "timestamp": "2026-10-13T06:37:33.396Z",
+  "databaseName": "BLANC-ATELIER",
+  "host": "localhost",
+  "collections": {
+    "users": {
+      "count": 2,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\users.json",
+      "sha256": "f325f6eddc18303d872debe46efcf9dce910ae97e90e5c05a91de20229efeb0c"
+    },
+    "products": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\products.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "productvariants": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\productvariants.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "collections": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\collections.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "inventorymovements": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\inventorymovements.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "orders": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\orders.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "payments": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\payments.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "carts": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\carts.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "wishlists": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\wishlists.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "customdesigns": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\customdesigns.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "designassets": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\designassets.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "podjobs": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\podjobs.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "drops": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\drops.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "coupons": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\coupons.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "reviews": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\reviews.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "supporttickets": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\supporttickets.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "rewardaccounts": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\rewardaccounts.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "rewardconfigs": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\rewardconfigs.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "otptokens": {
+      "count": 1,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\otptokens.json",
+      "sha256": "a4a35d4578cdff37def68b31beccaa36cfbc134f2dd1b943a7cf5239565520f3"
+    },
+    "adminauditlogs": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\adminauditlogs.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "storesettings": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\storesettings.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "webhookevents": {
+      "count": 0,
+      "filePath": "backups\\backup_2026-10-13T06-37-33-395Z\\webhookevents.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    }
+  },
+  "totalDocuments": 3,
+  "uploadFiles": []
+}

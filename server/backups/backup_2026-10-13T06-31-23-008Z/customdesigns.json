@@ -1,0 +1,1904 @@
+[
+  {
+    "_id": "6accfa290e77865350736bdb",
+    "designId": "dsgn_1791818281477_cc6ec67a",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791818281397",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T15:18:01.483Z",
+    "updatedAt": "2026-10-12T15:18:01.609Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfbc60e77865350736ca2",
+    "designId": "dsgn_1791818694012_654a5c76",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791818693906",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T15:24:54.016Z",
+    "updatedAt": "2026-10-12T15:24:54.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfcd10e77865350736e77",
+    "designId": "dsgn_1791818961514_a34ca854",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791818961436",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T15:29:21.517Z",
+    "updatedAt": "2026-10-12T15:29:21.619Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfd370e77865350736ef2",
+    "designId": "dsgn_1791819063881_68bba2dd",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791819063811",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T15:31:03.883Z",
+    "updatedAt": "2026-10-12T15:31:03.978Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfffa0e77865350737111",
+    "designId": "dsgn_1791819770683_c19b6a78",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791819770522",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T15:42:50.685Z",
+    "updatedAt": "2026-10-12T15:42:50.722Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd00130e7786535073718b",
+    "designId": "dsgn_1791819795889_f077252e",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791819795812",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T15:43:15.891Z",
+    "updatedAt": "2026-10-12T15:43:15.989Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd008e0e77865350737207",
+    "designId": "dsgn_1791819918971_60a7fc6d",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791819918804",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T15:45:18.974Z",
+    "updatedAt": "2026-10-12T15:45:19.024Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd038cdce2d5406f7843b6",
+    "designId": "dsgn_1791820684661_e3903fbc",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791820684486",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T15:58:04.668Z",
+    "updatedAt": "2026-10-12T15:58:04.726Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd041edce2d5406f7848bf",
+    "designId": "dsgn_1791820830048_576f26b0",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791820829964",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T16:00:30.051Z",
+    "updatedAt": "2026-10-12T16:00:30.178Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd043edce2d5406f784a71",
+    "designId": "dsgn_1791820862509_4ccfd14d",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791820862419",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T16:01:02.513Z",
+    "updatedAt": "2026-10-12T16:01:02.639Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd0492dce2d5406f784bbe",
+    "designId": "dsgn_1791820946940_8f4a7ab6",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791820946853",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T16:02:26.942Z",
+    "updatedAt": "2026-10-12T16:02:27.050Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd06a6dce2d5406f784e7d",
+    "designId": "dsgn_1791821478951_10fad0f1",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791821478817",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T16:11:18.955Z",
+    "updatedAt": "2026-10-12T16:11:19.106Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd082663ce9371be959fcc",
+    "designId": "dsgn_1791821862949_23a860b6",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791821862757",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-12T16:17:42.960Z",
+    "updatedAt": "2026-10-12T16:17:43.022Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb65dfb73cf5f08cb8df6",
+    "designId": "dsgn_1791866461660_921b3e3d",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "L",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1791866458509",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 32,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": false,
+    "ownerId": "6accfa080e77865350736a8a",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T04:41:01.670Z",
+    "updatedAt": "2026-10-13T04:41:01.670Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb84f9da42d33171f631d",
+    "designId": "dsgn_1791866959565_6e17cb75",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791866959446",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T04:49:19.575Z",
+    "updatedAt": "2026-10-13T04:49:19.608Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb8766300669ab0a6656b",
+    "designId": "dsgn_1791866998497_136c01fa",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791866998378",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T04:49:58.510Z",
+    "updatedAt": "2026-10-13T04:49:58.546Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb9c086895740305d3c3f",
+    "designId": "dsgn_1791867328776_ae20353c",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791867328514",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T04:55:28.797Z",
+    "updatedAt": "2026-10-13T04:55:28.863Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb9cbac7debd1e1393a72",
+    "designId": "dsgn_1791867339252_8c38631b",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791867338991",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T04:55:39.277Z",
+    "updatedAt": "2026-10-13T04:55:39.354Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb9e8c979ee515c41a24c",
+    "designId": "dsgn_1791867368229_21873af5",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791867367980",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T04:56:08.249Z",
+    "updatedAt": "2026-10-13T04:56:08.315Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbe29bea11980c4588df0",
+    "designId": "dsgn_1791868457641_9d216062",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791868457529",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:14:17.667Z",
+    "updatedAt": "2026-10-13T05:14:17.889Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbe6fcfb33098e4a8e1b1",
+    "designId": "dsgn_1791868527796_d915c6d0",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791868527274",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:15:27.937Z",
+    "updatedAt": "2026-10-13T05:15:29.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbeed7df6cdc9c2d1e83e",
+    "designId": "dsgn_1791868653034_d8a1b8d9",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791868652781",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:17:33.055Z",
+    "updatedAt": "2026-10-13T05:17:33.141Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbefbcf771d6504e37b71",
+    "designId": "dsgn_1791868667108_16292bee",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791868666834",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:17:47.131Z",
+    "updatedAt": "2026-10-13T05:17:47.218Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbff23c52973bceaa549d",
+    "designId": "dsgn_1791868914963_c6509925",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791868914683",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:21:54.989Z",
+    "updatedAt": "2026-10-13T05:21:55.125Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc1b501bb19ba97c7e7f7",
+    "designId": "dsgn_1791869365080_180141e2",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791869364807",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:29:25.102Z",
+    "updatedAt": "2026-10-13T05:29:25.206Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc32525c6d009c64d32c8",
+    "designId": "dsgn_1791869733958_00332c60",
+    "designName": "Custom T-Shirt Design",
+    "garmentStyle": "Oversized T-Shirt",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "pricePaise": 144200,
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "isBold": false,
+            "isItalic": false,
+            "isLocked": false,
+            "zIndex": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791869733718",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:35:33.992Z",
+    "updatedAt": "2026-10-13T05:35:34.195Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc35cc956be73c7edb08a",
+    "designId": "dsgn_1791869788570_752d3fb2",
+    "designName": "Custom T-Shirt Design",
+    "garmentStyle": "Oversized T-Shirt",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "pricePaise": 144200,
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "isBold": false,
+            "isItalic": false,
+            "isLocked": false,
+            "zIndex": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791869788250",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:36:28.609Z",
+    "updatedAt": "2026-10-13T05:36:28.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc3a2cfb877a04fc1db18",
+    "designId": "dsgn_1791869858291_c6f98ea3",
+    "designName": "Custom T-Shirt Design",
+    "garmentStyle": "Oversized T-Shirt",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "pricePaise": 144200,
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "isBold": false,
+            "isItalic": false,
+            "isLocked": false,
+            "zIndex": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791869858011",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:37:38.340Z",
+    "updatedAt": "2026-10-13T05:37:38.575Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc3c7dd71481bb09687fc",
+    "designId": "dsgn_1791869895890_68c68ec7",
+    "designName": "Custom T-Shirt Design",
+    "garmentStyle": "Oversized T-Shirt",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "pricePaise": 144200,
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "isBold": false,
+            "isItalic": false,
+            "isLocked": false,
+            "zIndex": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791869895586",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:38:15.932Z",
+    "updatedAt": "2026-10-13T05:38:16.150Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc8374c4d309f65ddcf14",
+    "designId": "dsgn_1791871031872_4f5672bf",
+    "designName": "Custom T-Shirt Design",
+    "garmentStyle": "Oversized T-Shirt",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "pricePaise": 144200,
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "isBold": false,
+            "isItalic": false,
+            "isLocked": false,
+            "zIndex": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791871031617",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T05:57:11.894Z",
+    "updatedAt": "2026-10-13T05:57:12.072Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdce4f13587501778167de",
+    "designId": "dsgn_1791872591888_1f8c3ac2",
+    "designName": "Custom T-Shirt Design",
+    "garmentStyle": "Oversized T-Shirt",
+    "version": 1,
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "selectedSize": "XL",
+    "pricePaise": 144200,
+    "sides": {
+      "front": {
+        "enabled": true,
+        "elements": [
+          {
+            "id": "el_txt_1",
+            "type": "text",
+            "assetId": null,
+            "imageUrl": null,
+            "originalFilename": null,
+            "imageDpi": 300,
+            "text": "BLANC\nATELIER",
+            "fontFamily": "Cormorant Garamond",
+            "fontSize": 36,
+            "colorHex": "#111111",
+            "textAlign": "center",
+            "letterSpacing": 0,
+            "isBold": false,
+            "isItalic": false,
+            "isLocked": false,
+            "zIndex": 0,
+            "xPercent": 50,
+            "yPercent": 40,
+            "scale": 1,
+            "rotation": 0,
+            "widthPercent": 40,
+            "heightPercent": 40
+          }
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "productionArtworkUrl": ""
+      },
+      "back": {
+        "enabled": false,
+        "elements": [],
+        "previewImageUrl": "",
+        "productionArtworkUrl": ""
+      }
+    },
+    "previewThumbnail": "/uploads/previews/mock_front.png",
+    "validation": {
+      "isValid": true,
+      "warnings": [],
+      "boundaryClipping": false,
+      "lowDpiDetected": false
+    },
+    "status": "saved",
+    "isLocked": true,
+    "ownerId": "test_sess_1791872591637",
+    "productId": "6accfa080e77865350736b17",
+    "createdAt": "2026-10-13T06:23:11.919Z",
+    "updatedAt": "2026-10-13T06:23:12.106Z",
+    "__v": 0
+  }
+]

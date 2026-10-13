@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6acdeccdadf385b9be46cdda",
+    "userId": null,
+    "sessionId": "sess_1791869838978_nvb02ps",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T08:33:17.265Z",
+    "updatedAt": "2026-10-13T08:33:17.265Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdf685aa1791eaac437d7c",
+    "userId": null,
+    "sessionId": "sess_1791816071538_lagx0qw",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T09:14:45.396Z",
+    "updatedAt": "2026-10-13T09:14:45.396Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "6acdd10c2f8769fa6af34660",
+    "name": "Priya M. Nair",
+    "email": "user_settings_1791873292657@example.com",
+    "passwordHash": "$2a$10$CEezNFStvKZ7dcaCiZmuVe0Ckf0n4fJ2AW2V83FqejGXMWqG4u4eW",
+    "phone": "9812345678",
+    "role": "customer",
+    "themePreference": "dark",
+    "isEmailVerified": true,
+    "isActive": true,
+    "addresses": [
+      {
+        "fullName": "Priya Nair",
+        "phone": "9812345678",
+        "addressLine1": "Flat 5B, Skyline Tower",
+        "addressLine2": "Indiranagar 100ft Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postalCode": "560038",
+        "country": "IN",
+        "label": "Home",
+        "deliveryInstructions": "",
+        "isDefault": true,
+        "_id": "6acdd10d2f8769fa6af34689",
+        "createdAt": "2026-10-13T06:34:53.105Z",
+        "updatedAt": "2026-10-13T06:34:53.105Z"
+      }
+    ],
+    "createdAt": "2026-10-13T06:34:52.974Z",
+    "updatedAt": "2026-10-13T06:34:53.292Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdd1386e982830d54421c6",
+    "name": "Priya M. Nair",
+    "email": "user_settings_1791873336402@example.com",
+    "passwordHash": "$2a$10$lpBE555meXyiRO0x.fqJMeBM0l6/JYLNLoUcA7QSc6uJxJ8z22kfq",
+    "phone": "9812345678",
+    "role": "customer",
+    "themePreference": "dark",
+    "isEmailVerified": true,
+    "isActive": true,
+    "addresses": [
+      {
+        "fullName": "Priya Nair",
+        "phone": "9812345678",
+        "addressLine1": "Flat 5B, Skyline Tower",
+        "addressLine2": "Indiranagar 100ft Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "postalCode": "560038",
+        "country": "IN",
+        "label": "Home",
+        "deliveryInstructions": "",
+        "isDefault": true,
+        "_id": "6acdd1386e982830d54421ee",
+        "createdAt": "2026-10-13T06:35:36.744Z",
+        "updatedAt": "2026-10-13T06:35:36.744Z"
+      }
+    ],
+    "createdAt": "2026-10-13T06:35:36.637Z",
+    "updatedAt": "2026-10-13T06:35:36.925Z",
+    "__v": 1
+  }
+]

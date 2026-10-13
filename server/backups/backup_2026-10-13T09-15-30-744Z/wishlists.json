@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "6acdeccdadf385b9be46cdd8",
+    "userId": null,
+    "sessionId": "sess_1791869838978_nvb02ps",
+    "products": [],
+    "createdAt": "2026-10-13T08:33:17.256Z",
+    "updatedAt": "2026-10-13T08:33:17.256Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdf685aa1791eaac437d7a",
+    "userId": null,
+    "sessionId": "sess_1791816071538_lagx0qw",
+    "products": [],
+    "createdAt": "2026-10-13T09:14:45.389Z",
+    "updatedAt": "2026-10-13T09:14:45.389Z",
+    "__v": 0
+  }
+]

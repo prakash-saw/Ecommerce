@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "6acd0f93a2e63a0c5871e215",
+    "adminEmail": "admin@blancatelier.com",
+    "action": "ORDER_STATUS_UPDATED",
+    "resourceType": "Order",
+    "resourceId": "6acd0effa2e63a0c5871e0a6",
+    "details": {
+      "orderNumber": "BLC-15544-7817",
+      "from": "pending_approval",
+      "to": "pending_approval",
+      "trackingNumber": ""
+    },
+    "ipAddress": "",
+    "createdAt": "2026-10-12T16:49:23.949Z",
+    "updatedAt": "2026-10-12T16:49:23.949Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd0fbca2e63a0c5871e23c",
+    "adminEmail": "admin@blancatelier.com",
+    "action": "ORDER_STATUS_UPDATED",
+    "resourceType": "Order",
+    "resourceId": "6acd0effa2e63a0c5871e0a6",
+    "details": {
+      "orderNumber": "BLC-15544-7817",
+      "from": "pending_approval",
+      "to": "approved",
+      "trackingNumber": ""
+    },
+    "ipAddress": "",
+    "createdAt": "2026-10-12T16:50:04.201Z",
+    "updatedAt": "2026-10-12T16:50:04.201Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd0fd4a2e63a0c5871e27a",
+    "adminEmail": "admin@blancatelier.com",
+    "action": "PRODUCT_UPDATED",
+    "resourceType": "Product",
+    "resourceId": "6accfa080e77865350736b17",
+    "details": {
+      "name": "Archival Tokyo // Minimal Kanji Drop",
+      "status": "published"
+    },
+    "ipAddress": "",
+    "createdAt": "2026-10-12T16:50:28.467Z",
+    "updatedAt": "2026-10-12T16:50:28.467Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd1020a2e63a0c5871e2a0",
+    "adminEmail": "admin@blancatelier.com",
+    "action": "PRODUCT_CREATED",
+    "resourceType": "Product",
+    "resourceId": "6acd1020a2e63a0c5871e283",
+    "details": {
+      "name": "hiii",
+      "basePricePaise": 25400
+    },
+    "ipAddress": "",
+    "createdAt": "2026-10-12T16:51:44.807Z",
+    "updatedAt": "2026-10-12T16:51:44.807Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd106aa2e63a0c5871e3c3",
+    "adminEmail": "admin@blancatelier.com",
+    "action": "INVENTORY_ADJUSTED",
+    "resourceType": "ProductVariant",
+    "resourceId": "6acd1020a2e63a0c5871e29c",
+    "details": {
+      "sku": "BODY-SOD-XXL-WHT",
+      "previousQuantity": 10,
+      "newQuantity": 15,
+      "delta": 5,
+      "reason": "manual_adjustment"
+    },
+    "ipAddress": "",
+    "createdAt": "2026-10-12T16:52:58.579Z",
+    "updatedAt": "2026-10-12T16:52:58.579Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd1084a2e63a0c5871e4d6",
+    "adminEmail": "admin@blancatelier.com",
+    "action": "ORDER_STATUS_UPDATED",
+    "resourceType": "Order",
+    "resourceId": "6acd0effa2e63a0c5871e0a6",
+    "details": {
+      "orderNumber": "BLC-15544-7817",
+      "from": "approved",
+      "to": "shipped",
+      "trackingNumber": ""
+    },
+    "ipAddress": "",
+    "createdAt": "2026-10-12T16:53:24.589Z",
+    "updatedAt": "2026-10-12T16:53:24.589Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd1089a2e63a0c5871e4e3",
+    "adminEmail": "admin@blancatelier.com",
+    "action": "ORDER_STATUS_UPDATED",
+    "resourceType": "Order",
+    "resourceId": "6acd0effa2e63a0c5871e0a6",
+    "details": {
+      "orderNumber": "BLC-15544-7817",
+      "from": "shipped",
+      "to": "shipped",
+      "trackingNumber": ""
+    },
+    "ipAddress": "",
+    "createdAt": "2026-10-12T16:53:29.175Z",
+    "updatedAt": "2026-10-12T16:53:29.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc21d7f23fedc739a6209",
+    "adminEmail": "admin@blancatelier.com",
+    "action": "ORDER_STATUS_UPDATED",
+    "resourceType": "Order",
+    "resourceId": "6acdbe71cfb33098e4a8e1df",
+    "details": {
+      "orderNumber": "BLC-29325-8755",
+      "from": "PENDING_PAYMENT",
+      "to": "PROCESSING",
+      "fulfilmentStatus": "in_production",
+      "paymentStatus": "PENDING",
+      "trackingNumber": ""
+    },
+    "ipAddress": "",
+    "createdAt": "2026-10-13T05:31:09.070Z",
+    "updatedAt": "2026-10-13T05:31:09.070Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc25992e0999ca0d67ff4",
+    "adminEmail": "admin@blancatelier.com",
+    "action": "INVENTORY_ADJUSTED",
+    "resourceType": "ProductVariant",
+    "resourceId": "6acd1020a2e63a0c5871e29c",
+    "details": {
+      "sku": "BODY-SOD-XXL-WHT",
+      "previousQuantity": 15,
+      "newQuantity": 16,
+      "delta": 1,
+      "reason": "order_return"
+    },
+    "ipAddress": "",
+    "createdAt": "2026-10-13T05:32:09.736Z",
+    "updatedAt": "2026-10-13T05:32:09.736Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6acd0821780b21df35a91d1c",
+    "ticketNumber": "SUP-00102",
+    "customerName": "Ananya Verma",
+    "customerEmail": "ananya@delhi.ac.in",
+    "customerPhone": "",
+    "category": "pod_customization",
+    "subject": "Artwork vector resolution verification",
+    "message": "I designed a vector emblem in Illustrator. Is SVG vector or 300 DPI transparent PNG preferred for the DTG print bed?",
+    "orderNumber": "",
+    "status": "in_progress",
+    "priority": "high",
+    "assignedAdminEmail": "admin@blancatelier.com",
+    "internalNotes": [],
+    "createdAt": "2026-10-12T16:17:37.084Z",
+    "updatedAt": "2026-10-12T16:17:37.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd0821780b21df35a91d1b",
+    "ticketNumber": "SUP-00101",
+    "customerName": "Aarav Mehta",
+    "customerEmail": "aarav@college.in",
+    "customerPhone": "+91 98765 11223",
+    "category": "sizing",
+    "subject": "Sizing recommendation for 6ft lean build",
+    "message": "Hi Blanc team, I usually wear size L in standard tees. Does the 240 GSM boxy cut run oversized so M would drape better?",
+    "orderNumber": "",
+    "status": "open",
+    "priority": "normal",
+    "assignedAdminEmail": null,
+    "internalNotes": [],
+    "createdAt": "2026-10-12T16:17:37.084Z",
+    "updatedAt": "2026-10-12T16:17:37.084Z",
+    "__v": 0
+  }
+]

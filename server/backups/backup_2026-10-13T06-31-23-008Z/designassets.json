@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "6acd0e8ca2e63a0c5871de8d",
+    "assetId": "ast_81b475652e7e",
+    "storagePath": "D:\\bca\\Ecommerce\\server\\uploads\\artwork\\art_1791823500488_Screenshot_2026-10-05_222050_68892df37ee57455.png",
+    "publicUrl": "/uploads/artwork/art_1791823500488_Screenshot_2026-10-05_222050_68892df37ee57455.png",
+    "originalFilename": "Screenshot 2026-10-05 222050.png",
+    "mimeType": "image/png",
+    "fileSizeBytes": 752833,
+    "dimensions": {
+      "width": 1200,
+      "height": 1200,
+      "dpi": 100
+    },
+    "checksum": "",
+    "uploadOwner": "sess_1791816071538_lagx0qw",
+    "createdAt": "2026-10-12T16:45:00.509Z",
+    "updatedAt": "2026-10-12T16:45:00.509Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc9025af444e897f12e0c",
+    "assetId": "ast_6081539efeec",
+    "storagePath": "D:\\bca\\Ecommerce\\server\\uploads\\artwork\\art_1791871234722_Screenshot_2026-10-05_222050_8bcdabffae3e8c2b.png",
+    "publicUrl": "/uploads/artwork/art_1791871234722_Screenshot_2026-10-05_222050_8bcdabffae3e8c2b.png",
+    "originalFilename": "Screenshot 2026-10-05 222050.png",
+    "mimeType": "image/png",
+    "fileSizeBytes": 752833,
+    "dimensions": {
+      "width": 1200,
+      "height": 1200,
+      "dpi": 100
+    },
+    "checksum": "",
+    "uploadOwner": "sess_1791816071538_lagx0qw",
+    "createdAt": "2026-10-13T06:00:34.740Z",
+    "updatedAt": "2026-10-13T06:00:34.740Z",
+    "__v": 0
+  }
+]

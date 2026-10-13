@@ -1,0 +1,1522 @@
+[
+  {
+    "_id": "6accfa080e77865350736a95",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.809Z",
+    "updatedAt": "2026-10-12T15:17:28.809Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736a97",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.812Z",
+    "updatedAt": "2026-10-12T15:17:28.812Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736a99",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.815Z",
+    "updatedAt": "2026-10-12T15:17:28.815Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736a9b",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.817Z",
+    "updatedAt": "2026-10-12T15:17:28.817Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736a9d",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.820Z",
+    "updatedAt": "2026-10-12T15:17:28.820Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736a9f",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-OFF-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.823Z",
+    "updatedAt": "2026-10-12T15:17:28.823Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aa1",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-OFF-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.825Z",
+    "updatedAt": "2026-10-12T15:17:28.825Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aa3",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-OFF-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.828Z",
+    "updatedAt": "2026-10-12T15:17:28.828Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aa5",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-OFF-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.831Z",
+    "updatedAt": "2026-10-12T15:17:28.831Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aa7",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-OFF-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.833Z",
+    "updatedAt": "2026-10-12T15:17:28.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aa9",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-CHARCOAL-S",
+    "size": "S",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.836Z",
+    "updatedAt": "2026-10-12T15:17:28.836Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aab",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-CHARCOAL-M",
+    "size": "M",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.838Z",
+    "updatedAt": "2026-10-12T15:17:28.838Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aad",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-CHARCOAL-L",
+    "size": "L",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.840Z",
+    "updatedAt": "2026-10-12T15:17:28.840Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aaf",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-CHARCOAL-XL",
+    "size": "XL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.842Z",
+    "updatedAt": "2026-10-12T15:17:28.842Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ab1",
+    "productId": "6accfa080e77865350736a90",
+    "sku": "CUST-CHARCOAL-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.845Z",
+    "updatedAt": "2026-10-12T15:17:28.845Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ab7",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.855Z",
+    "updatedAt": "2026-10-12T15:17:28.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ab9",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.858Z",
+    "updatedAt": "2026-10-12T15:17:28.858Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736abb",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.860Z",
+    "updatedAt": "2026-10-12T15:17:28.860Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736abd",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.864Z",
+    "updatedAt": "2026-10-12T15:17:28.864Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736abf",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.866Z",
+    "updatedAt": "2026-10-12T15:17:28.866Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ac1",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-OFF-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.869Z",
+    "updatedAt": "2026-10-12T15:17:28.869Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ac3",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-OFF-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.872Z",
+    "updatedAt": "2026-10-12T15:17:28.872Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ac5",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-OFF-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.874Z",
+    "updatedAt": "2026-10-12T15:17:28.874Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ac7",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-OFF-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.877Z",
+    "updatedAt": "2026-10-12T15:17:28.877Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ac9",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-OFF-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.880Z",
+    "updatedAt": "2026-10-12T15:17:28.880Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736acb",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-CHARCOAL-S",
+    "size": "S",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.883Z",
+    "updatedAt": "2026-10-12T15:17:28.883Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736acd",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-CHARCOAL-M",
+    "size": "M",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.886Z",
+    "updatedAt": "2026-10-12T15:17:28.886Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736acf",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-CHARCOAL-L",
+    "size": "L",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.889Z",
+    "updatedAt": "2026-10-12T15:17:28.889Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ad1",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-CHARCOAL-XL",
+    "size": "XL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.892Z",
+    "updatedAt": "2026-10-12T15:17:28.892Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ad3",
+    "productId": "6accfa080e77865350736ab3",
+    "sku": "ESSE-CHARCOAL-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.894Z",
+    "updatedAt": "2026-10-12T15:17:28.894Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ad8",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.901Z",
+    "updatedAt": "2026-10-12T15:17:28.901Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ada",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.903Z",
+    "updatedAt": "2026-10-12T15:17:28.903Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736adc",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.906Z",
+    "updatedAt": "2026-10-12T15:17:28.906Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ade",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.908Z",
+    "updatedAt": "2026-10-12T15:17:28.908Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ae0",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.912Z",
+    "updatedAt": "2026-10-12T15:17:28.912Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ae2",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-OFF-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.915Z",
+    "updatedAt": "2026-10-12T15:17:28.915Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ae4",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-OFF-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.917Z",
+    "updatedAt": "2026-10-12T15:17:28.917Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ae6",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-OFF-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.920Z",
+    "updatedAt": "2026-10-12T15:17:28.920Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736ae8",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-OFF-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.922Z",
+    "updatedAt": "2026-10-12T15:17:28.922Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aea",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-OFF-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.924Z",
+    "updatedAt": "2026-10-12T15:17:28.924Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aec",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-CHARCOAL-S",
+    "size": "S",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.927Z",
+    "updatedAt": "2026-10-12T15:17:28.927Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aee",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-CHARCOAL-M",
+    "size": "M",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.929Z",
+    "updatedAt": "2026-10-12T15:17:28.929Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736af0",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-CHARCOAL-L",
+    "size": "L",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.931Z",
+    "updatedAt": "2026-10-12T15:17:28.931Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736af2",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-CHARCOAL-XL",
+    "size": "XL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.934Z",
+    "updatedAt": "2026-10-12T15:17:28.934Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736af4",
+    "productId": "6accfa080e77865350736ad5",
+    "sku": "BAUH-CHARCOAL-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.936Z",
+    "updatedAt": "2026-10-12T15:17:28.936Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736af9",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.943Z",
+    "updatedAt": "2026-10-12T15:17:28.943Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736afb",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.945Z",
+    "updatedAt": "2026-10-12T15:17:28.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736afd",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.948Z",
+    "updatedAt": "2026-10-12T15:17:28.948Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736aff",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.950Z",
+    "updatedAt": "2026-10-12T15:17:28.950Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b01",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.952Z",
+    "updatedAt": "2026-10-12T15:17:28.952Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b03",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-OFF-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.955Z",
+    "updatedAt": "2026-10-12T15:17:28.955Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b05",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-OFF-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.957Z",
+    "updatedAt": "2026-10-12T15:17:28.957Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b07",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-OFF-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.959Z",
+    "updatedAt": "2026-10-12T15:17:28.959Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b09",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-OFF-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.961Z",
+    "updatedAt": "2026-10-12T15:17:28.961Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b0b",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-OFF-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.964Z",
+    "updatedAt": "2026-10-12T15:17:28.964Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b0d",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-CHARCOAL-S",
+    "size": "S",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.967Z",
+    "updatedAt": "2026-10-12T15:17:28.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b0f",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-CHARCOAL-M",
+    "size": "M",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.970Z",
+    "updatedAt": "2026-10-12T15:17:28.970Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b11",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-CHARCOAL-L",
+    "size": "L",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.973Z",
+    "updatedAt": "2026-10-12T15:17:28.973Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b13",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-CHARCOAL-XL",
+    "size": "XL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.976Z",
+    "updatedAt": "2026-10-12T15:17:28.976Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b15",
+    "productId": "6accfa080e77865350736af6",
+    "sku": "MONO-CHARCOAL-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.978Z",
+    "updatedAt": "2026-10-12T15:17:28.978Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b1a",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.983Z",
+    "updatedAt": "2026-10-12T15:17:28.983Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b1c",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.985Z",
+    "updatedAt": "2026-10-12T15:17:28.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b1e",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 29,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.987Z",
+    "updatedAt": "2026-10-13T04:58:11.188Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b20",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.989Z",
+    "updatedAt": "2026-10-12T15:17:28.989Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b22",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.991Z",
+    "updatedAt": "2026-10-12T15:17:28.991Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b24",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-OFF-WHITE-S",
+    "size": "S",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.993Z",
+    "updatedAt": "2026-10-12T15:17:28.993Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b26",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-OFF-WHITE-M",
+    "size": "M",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.995Z",
+    "updatedAt": "2026-10-12T15:17:28.995Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b28",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-OFF-WHITE-L",
+    "size": "L",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.998Z",
+    "updatedAt": "2026-10-12T15:17:28.998Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa080e77865350736b2a",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-OFF-WHITE-XL",
+    "size": "XL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:29.000Z",
+    "updatedAt": "2026-10-12T15:17:29.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa090e77865350736b2c",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-OFF-WHITE-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "off-white",
+      "name": "Vintage Off-White",
+      "hex": "#F5F4EE",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:29.002Z",
+    "updatedAt": "2026-10-12T15:17:29.002Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa090e77865350736b2e",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-CHARCOAL-S",
+    "size": "S",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:29.005Z",
+    "updatedAt": "2026-10-12T15:17:29.005Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa090e77865350736b30",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-CHARCOAL-M",
+    "size": "M",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:29.007Z",
+    "updatedAt": "2026-10-12T15:17:29.007Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa090e77865350736b32",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-CHARCOAL-L",
+    "size": "L",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:29.010Z",
+    "updatedAt": "2026-10-12T15:17:29.010Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa090e77865350736b34",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-CHARCOAL-XL",
+    "size": "XL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:29.013Z",
+    "updatedAt": "2026-10-12T15:17:29.013Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfa090e77865350736b36",
+    "productId": "6accfa080e77865350736b17",
+    "sku": "ARCH-CHARCOAL-XXL",
+    "size": "XXL",
+    "color": {
+      "id": "charcoal",
+      "name": "Washed Charcoal",
+      "hex": "#262626",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 30,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:29.015Z",
+    "updatedAt": "2026-10-12T15:17:29.015Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd1020a2e63a0c5871e28c",
+    "productId": "6acd1020a2e63a0c5871e283",
+    "sku": "BODY-SOD-S-WHT",
+    "size": "S",
+    "color": {
+      "id": "blanc-white",
+      "name": "Blanc White",
+      "hex": "#FDFBF7",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 20,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T16:51:44.720Z",
+    "updatedAt": "2026-10-12T16:51:44.720Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd1020a2e63a0c5871e290",
+    "productId": "6acd1020a2e63a0c5871e283",
+    "sku": "BODY-SOD-M-WHT",
+    "size": "M",
+    "color": {
+      "id": "blanc-white",
+      "name": "Blanc White",
+      "hex": "#FDFBF7",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 25,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T16:51:44.741Z",
+    "updatedAt": "2026-10-12T16:51:44.741Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd1020a2e63a0c5871e294",
+    "productId": "6acd1020a2e63a0c5871e283",
+    "sku": "BODY-SOD-L-WHT",
+    "size": "L",
+    "color": {
+      "id": "blanc-white",
+      "name": "Blanc White",
+      "hex": "#FDFBF7",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 22,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T16:51:44.764Z",
+    "updatedAt": "2026-10-13T05:41:55.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd1020a2e63a0c5871e298",
+    "productId": "6acd1020a2e63a0c5871e283",
+    "sku": "BODY-SOD-XL-WHT",
+    "size": "XL",
+    "color": {
+      "id": "blanc-white",
+      "name": "Blanc White",
+      "hex": "#FDFBF7",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 15,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T16:51:44.778Z",
+    "updatedAt": "2026-10-12T16:51:44.778Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd1020a2e63a0c5871e29c",
+    "productId": "6acd1020a2e63a0c5871e283",
+    "sku": "BODY-SOD-XXL-WHT",
+    "size": "XXL",
+    "color": {
+      "id": "blanc-white",
+      "name": "Blanc White",
+      "hex": "#FDFBF7",
+      "garmentImageFront": "",
+      "garmentImageBack": ""
+    },
+    "stockQuantity": 16,
+    "priceOverridePaise": null,
+    "isActive": true,
+    "createdAt": "2026-10-12T16:51:44.790Z",
+    "updatedAt": "2026-10-13T05:32:09.695Z",
+    "__v": 0
+  }
+]

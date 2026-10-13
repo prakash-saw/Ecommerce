@@ -1,0 +1,3659 @@
+[
+  {
+    "_id": "6accfa290e77865350736bf6",
+    "orderNumber": "BLC-81606-4959",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791818281477_cc6ec67a",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791818281619_n1t7h",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T15:18:01.783Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T15:18:01.917Z"
+    },
+    "rejectionReason": "",
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6accfa290e77865350736c13",
+        "timestamp": "2026-10-12T15:18:01.784Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791818281477_cc6ec67a approved for order BLC-81606-4959",
+        "_id": "6accfa290e77865350736c2d",
+        "timestamp": "2026-10-12T15:18:01.902Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6accfa290e77865350736c3a",
+        "timestamp": "2026-10-12T15:18:01.919Z"
+      }
+    ],
+    "createdAt": "2026-10-12T15:18:01.616Z",
+    "updatedAt": "2026-10-12T15:18:01.918Z",
+    "__v": 1
+  },
+  {
+    "_id": "6accfbc60e77865350736cba",
+    "orderNumber": "BLC-94165-4600",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791818694012_654a5c76",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791818694176_8vb6j",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T15:24:54.280Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T15:24:54.500Z"
+    },
+    "rejectionReason": "",
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6accfbc60e77865350736ccc",
+        "timestamp": "2026-10-12T15:24:54.280Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791818694012_654a5c76 approved for order BLC-94165-4600",
+        "_id": "6accfbc60e77865350736cef",
+        "timestamp": "2026-10-12T15:24:54.487Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6accfbc60e77865350736cfb",
+        "timestamp": "2026-10-12T15:24:54.501Z"
+      }
+    ],
+    "createdAt": "2026-10-12T15:24:54.173Z",
+    "updatedAt": "2026-10-12T15:24:54.500Z",
+    "__v": 1
+  },
+  {
+    "_id": "6accfcd10e77865350736e8f",
+    "orderNumber": "BLC-61618-8633",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791818961514_a34ca854",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791818961625_pnya8",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T15:29:21.713Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T15:29:21.889Z"
+    },
+    "rejectionReason": "",
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6accfcd10e77865350736ea1",
+        "timestamp": "2026-10-12T15:29:21.713Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791818961514_a34ca854 approved for order BLC-61618-8633",
+        "_id": "6accfcd10e77865350736ec4",
+        "timestamp": "2026-10-12T15:29:21.879Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6accfcd10e77865350736ed0",
+        "timestamp": "2026-10-12T15:29:21.889Z"
+      }
+    ],
+    "createdAt": "2026-10-12T15:29:21.623Z",
+    "updatedAt": "2026-10-12T15:29:21.889Z",
+    "__v": 1
+  },
+  {
+    "_id": "6accfd370e77865350736f07",
+    "orderNumber": "BLC-63977-5535",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791819063881_68bba2dd",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791819063983_hjidr",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T15:31:03.997Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T15:31:04.230Z"
+    },
+    "rejectionReason": "",
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6accfd370e77865350736f18",
+        "timestamp": "2026-10-12T15:31:03.997Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791819063881_68bba2dd approved for order BLC-63977-5535",
+        "_id": "6accfd380e77865350736f37",
+        "timestamp": "2026-10-12T15:31:04.223Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6accfd380e77865350736f46",
+        "timestamp": "2026-10-12T15:31:04.230Z"
+      }
+    ],
+    "createdAt": "2026-10-12T15:31:03.980Z",
+    "updatedAt": "2026-10-12T15:31:04.230Z",
+    "__v": 1
+  },
+  {
+    "_id": "6accfffa0e7786535073712c",
+    "orderNumber": "BLC-70721-2057",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791819770683_c19b6a78",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791819770726_ejng8",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T15:42:50.889Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T15:42:51.004Z"
+    },
+    "rejectionReason": "",
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6accfffa0e7786535073713c",
+        "timestamp": "2026-10-12T15:42:50.889Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791819770683_c19b6a78 approved for order BLC-70721-2057",
+        "_id": "6accfffa0e77865350737163",
+        "timestamp": "2026-10-12T15:42:50.994Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6accfffb0e77865350737170",
+        "timestamp": "2026-10-12T15:42:51.004Z"
+      }
+    ],
+    "createdAt": "2026-10-12T15:42:50.725Z",
+    "updatedAt": "2026-10-12T15:42:51.004Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acd00130e778653507371a0",
+    "orderNumber": "BLC-95988-7638",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791819795889_f077252e",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791819795995_46fe1",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T15:43:16.011Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T15:43:16.254Z"
+    },
+    "rejectionReason": "",
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6acd00140e778653507371b1",
+        "timestamp": "2026-10-12T15:43:16.011Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791819795889_f077252e approved for order BLC-95988-7638",
+        "_id": "6acd00140e778653507371d2",
+        "timestamp": "2026-10-12T15:43:16.247Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acd00140e778653507371df",
+        "timestamp": "2026-10-12T15:43:16.254Z"
+      }
+    ],
+    "createdAt": "2026-10-12T15:43:15.992Z",
+    "updatedAt": "2026-10-12T15:43:16.254Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acd008f0e77865350737222",
+    "orderNumber": "BLC-19022-6231",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791819918971_60a7fc6d",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791819919032_k6sad",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T15:45:19.225Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T15:45:19.362Z"
+    },
+    "rejectionReason": "",
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6acd008f0e7786535073723f",
+        "timestamp": "2026-10-12T15:45:19.226Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791819918971_60a7fc6d approved for order BLC-19022-6231",
+        "_id": "6acd008f0e77865350737259",
+        "timestamp": "2026-10-12T15:45:19.349Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acd008f0e77865350737266",
+        "timestamp": "2026-10-12T15:45:19.363Z"
+      }
+    ],
+    "createdAt": "2026-10-12T15:45:19.028Z",
+    "updatedAt": "2026-10-12T15:45:19.362Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acd038cdce2d5406f7843eb",
+    "orderNumber": "BLC-84723-4183",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791820684661_e3903fbc",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791820684821_bfeh6",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T15:58:04.930Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T15:58:05.084Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6acd038cdce2d5406f784422",
+        "timestamp": "2026-10-12T15:58:04.930Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791820684661_e3903fbc approved for order BLC-84723-4183",
+        "_id": "6acd038ddce2d5406f78444f",
+        "timestamp": "2026-10-12T15:58:05.069Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acd038ddce2d5406f784460",
+        "timestamp": "2026-10-12T15:58:05.086Z"
+      }
+    ],
+    "createdAt": "2026-10-12T15:58:04.734Z",
+    "updatedAt": "2026-10-12T15:58:05.085Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acd041edce2d5406f7848f2",
+    "orderNumber": "BLC-30176-9995",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791820830048_576f26b0",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791820830189_zm9kz",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T16:00:30.460Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T16:00:30.616Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6acd041edce2d5406f784904",
+        "timestamp": "2026-10-12T16:00:30.460Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791820830048_576f26b0 approved for order BLC-30176-9995",
+        "_id": "6acd041edce2d5406f78494e",
+        "timestamp": "2026-10-12T16:00:30.601Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acd041edce2d5406f78495f",
+        "timestamp": "2026-10-12T16:00:30.617Z"
+      }
+    ],
+    "createdAt": "2026-10-12T16:00:30.184Z",
+    "updatedAt": "2026-10-12T16:00:30.616Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acd043edce2d5406f784aa3",
+    "orderNumber": "BLC-62636-8166",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791820862509_4ccfd14d",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791820862649_bzq3j",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T16:01:02.835Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T16:01:02.981Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6acd043edce2d5406f784ab7",
+        "timestamp": "2026-10-12T16:01:02.835Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791820862509_4ccfd14d approved for order BLC-62636-8166",
+        "_id": "6acd043edce2d5406f784b01",
+        "timestamp": "2026-10-12T16:01:02.968Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acd043edce2d5406f784b12",
+        "timestamp": "2026-10-12T16:01:02.982Z"
+      }
+    ],
+    "createdAt": "2026-10-12T16:01:02.642Z",
+    "updatedAt": "2026-10-12T16:01:02.981Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acd0493dce2d5406f784bf0",
+    "orderNumber": "BLC-47049-5393",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791820946940_8f4a7ab6",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791820947059_cio5u",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T16:02:27.218Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T16:02:27.338Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6acd0493dce2d5406f784c04",
+        "timestamp": "2026-10-12T16:02:27.218Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791820946940_8f4a7ab6 approved for order BLC-47049-5393",
+        "_id": "6acd0493dce2d5406f784c51",
+        "timestamp": "2026-10-12T16:02:27.328Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acd0493dce2d5406f784c68",
+        "timestamp": "2026-10-12T16:02:27.339Z"
+      }
+    ],
+    "createdAt": "2026-10-12T16:02:27.054Z",
+    "updatedAt": "2026-10-12T16:02:27.339Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acd06a7dce2d5406f784ead",
+    "orderNumber": "BLC-79103-2147",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791821478951_10fad0f1",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791821479116_phj0j",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T16:11:19.141Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T16:11:19.475Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6acd06a7dce2d5406f784ebf",
+        "timestamp": "2026-10-12T16:11:19.142Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791821478951_10fad0f1 approved for order BLC-79103-2147",
+        "_id": "6acd06a7dce2d5406f784f03",
+        "timestamp": "2026-10-12T16:11:19.460Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acd06a7dce2d5406f784f13",
+        "timestamp": "2026-10-12T16:11:19.476Z"
+      }
+    ],
+    "createdAt": "2026-10-12T16:11:19.110Z",
+    "updatedAt": "2026-10-12T16:11:19.475Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acd082763ce9371be95a001",
+    "orderNumber": "BLC-63019-9406",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791821862949_23a860b6",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144900,
+        "lineTotalPaise": 144900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144900,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7245,
+      "totalAmountPaise": 162045
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791821863125_23z0q",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "sig_sandbox",
+      "paidAt": "2026-10-12T16:17:43.241Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-12T16:17:43.459Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹1620.45 via Razorpay ID: pay_test_verified_123",
+        "_id": "6acd082763ce9371be95a038",
+        "timestamp": "2026-10-12T16:17:43.241Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791821862949_23a860b6 approved for order BLC-63019-9406",
+        "_id": "6acd082763ce9371be95a05e",
+        "timestamp": "2026-10-12T16:17:43.426Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acd082763ce9371be95a076",
+        "timestamp": "2026-10-12T16:17:43.461Z"
+      }
+    ],
+    "createdAt": "2026-10-12T16:17:43.034Z",
+    "updatedAt": "2026-10-12T16:17:43.459Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acd0effa2e63a0c5871e0a6",
+    "orderNumber": "BLC-15544-7817",
+    "userId": null,
+    "customer": {
+      "name": "shiny mahli",
+      "email": "saini121@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736a90",
+        "productName": "The Custom Heavyweight Blank Tee",
+        "productSlug": "custom-heavyweight-blank-tee",
+        "isCustom": false,
+        "customDesignId": null,
+        "designVersion": 1,
+        "selectedSize": "L",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=80",
+        "quantity": 1,
+        "unitPricePaise": 69900,
+        "lineTotalPaise": 69900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "shiny mahli",
+      "phone": "9876543210",
+      "addressLine1": "tea garden",
+      "addressLine2": "50",
+      "city": "Ranchi",
+      "state": "Karnataka",
+      "postalCode": "834010",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 69900,
+      "printingFeePaise": 0,
+      "shippingFeePaise": 9900,
+      "discountPaise": 6990,
+      "taxPaise": 3146,
+      "totalAmountPaise": 75956
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_test_1791823615560_0cf2o",
+      "razorpayPaymentId": "pay_sandbox_1791823615573",
+      "razorpaySignature": "sig_sandbox_verified",
+      "paidAt": "2026-10-12T16:46:55.586Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": "2026-10-12T16:53:24.576Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": "WELCOME10",
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹759.56 via Razorpay ID: pay_sandbox_1791823615573",
+        "_id": "6acd0effa2e63a0c5871e0b0",
+        "timestamp": "2026-10-12T16:46:55.586Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "Status changed from \"pending_approval\" to \"pending_approval\"",
+        "note": "",
+        "timestamp": "2026-10-12T16:49:23.932Z",
+        "_id": "6acd0f93a2e63a0c5871e213"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "Status changed from \"pending_approval\" to \"approved\"",
+        "note": "",
+        "timestamp": "2026-10-12T16:50:04.168Z",
+        "_id": "6acd0fbca2e63a0c5871e23a"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "Status changed from \"approved\" to \"shipped\"",
+        "note": "",
+        "timestamp": "2026-10-12T16:53:24.576Z",
+        "_id": "6acd1084a2e63a0c5871e4d4"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "Status changed from \"shipped\" to \"shipped\"",
+        "note": "",
+        "timestamp": "2026-10-12T16:53:29.164Z",
+        "_id": "6acd1089a2e63a0c5871e4e1"
+      }
+    ],
+    "createdAt": "2026-10-12T16:46:55.549Z",
+    "updatedAt": "2026-10-12T16:53:29.169Z",
+    "__v": 5
+  },
+  {
+    "_id": "6acd11ad85e730631a125fda",
+    "orderNumber": "BLC-01654-4119",
+    "userId": "6accfa920e77865350736c49",
+    "customer": {
+      "name": "prakash77saw@gmail.com3",
+      "email": "prakash77saw@gmail.com3",
+      "phone": "8527413690"
+    },
+    "items": [
+      {
+        "productId": "6acd1020a2e63a0c5871e283",
+        "productName": "hiii",
+        "productSlug": "body-sody",
+        "isCustom": false,
+        "customDesignId": null,
+        "designVersion": 1,
+        "selectedSize": "L",
+        "selectedColor": {
+          "id": "blanc-white",
+          "name": "Blanc White",
+          "hex": "#FDFBF7"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "https://tse4.mm.bing.net/th/id/OIP.I82iWxE7axsgdkmlExeAgAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "quantity": 2,
+        "unitPricePaise": 25400,
+        "lineTotalPaise": 50800
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "prakash77saw@gmail.com3",
+      "phone": "8527413690",
+      "addressLine1": "tea garden",
+      "addressLine2": "50",
+      "city": "Ranchi",
+      "state": "Karnataka",
+      "postalCode": "834010",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 50800,
+      "printingFeePaise": 0,
+      "shippingFeePaise": 9900,
+      "discountPaise": 5080,
+      "taxPaise": 2286,
+      "totalAmountPaise": 57906
+    },
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791866306695_a07fe6b6",
+      "razorpayPaymentId": "pay_sandbox_1791824301751",
+      "razorpaySignature": "sig_sandbox_verified",
+      "paidAt": "2026-10-12T16:58:21.780Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "pending_approval",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": null
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": "WELCOME10",
+    "auditLog": [
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_CAPTURED",
+        "note": "Verified ₹579.06 via Razorpay ID: pay_sandbox_1791824301751",
+        "_id": "6acd11ad85e730631a125fe4",
+        "timestamp": "2026-10-12T16:58:21.784Z"
+      },
+      {
+        "actor": "Customer",
+        "action": "PAYMENT_RETRIED",
+        "note": "Generated retry payment intent order_1791866306695_a07fe6b6",
+        "timestamp": "2026-10-13T04:38:26.697Z",
+        "_id": "6acdb5c2cb6ccb69cd534258"
+      }
+    ],
+    "createdAt": "2026-10-12T16:58:21.688Z",
+    "updatedAt": "2026-10-13T04:38:26.698Z",
+    "__v": 2,
+    "orderStatus": "PENDING_PAYMENT",
+    "paymentMethod": "PREPAID",
+    "paymentStatus": "PENDING"
+  },
+  {
+    "_id": "6acdb4189518cde783c676aa",
+    "orderNumber": "BLC-80875-1433",
+    "userId": null,
+    "customer": {
+      "name": "shiny mahli",
+      "email": "saini121@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736ad5",
+        "productName": "Bauhaus Geometry // \"FORM FOLLOWS\" Tee",
+        "productSlug": "bauhaus-form-follows-tee",
+        "isCustom": false,
+        "customDesignId": null,
+        "designVersion": 1,
+        "selectedSize": "L",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1200&q=80",
+        "quantity": 1,
+        "unitPricePaise": 109900,
+        "lineTotalPaise": 109900
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "shiny mahli",
+      "phone": "9876543210",
+      "addressLine1": "tea garden",
+      "addressLine2": "",
+      "city": "Ranchi",
+      "state": "Karnataka",
+      "postalCode": "834010",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 109900,
+      "printingFeePaise": 0,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 5495,
+      "totalAmountPaise": 125295
+    },
+    "orderStatus": "PENDING_PAYMENT",
+    "paymentStatus": "PENDING",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:01:20.875Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "pending",
+      "razorpayOrderId": "order_1791865891109_cf5ae67a",
+      "razorpayPaymentId": null,
+      "razorpaySignature": null,
+      "paidAt": null,
+      "failureReason": null
+    },
+    "fulfilmentStatus": "pending_approval",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": null
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1252.95",
+        "timestamp": "2026-10-13T04:31:20.875Z",
+        "_id": "6acdb4189518cde783c676ab"
+      },
+      {
+        "actor": "Customer",
+        "action": "PAYMENT_RETRIED",
+        "note": "Generated retry payment intent order_1791865890074_a5deb9a8",
+        "timestamp": "2026-10-13T04:31:30.084Z",
+        "_id": "6acdb422cb6ccb69cd533bfe"
+      },
+      {
+        "actor": "Customer",
+        "action": "PAYMENT_RETRIED",
+        "note": "Generated retry payment intent order_1791865891109_cf5ae67a",
+        "timestamp": "2026-10-13T04:31:31.113Z",
+        "_id": "6acdb423cb6ccb69cd533c05"
+      }
+    ],
+    "createdAt": "2026-10-13T04:31:20.885Z",
+    "updatedAt": "2026-10-13T04:31:31.114Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdb84f9da42d33171f6349",
+    "orderNumber": "BLC-59607-2123",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791866959565_6e17cb75",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "PENDING_PAYMENT",
+    "paymentStatus": "PENDING",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:19:19.607Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "pending",
+      "razorpayOrderId": "order_1791866959631_5b0f12ee",
+      "razorpayPaymentId": null,
+      "razorpaySignature": null,
+      "paidAt": null,
+      "failureReason": null
+    },
+    "fulfilmentStatus": "pending_approval",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": null
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T04:49:19.607Z",
+        "_id": "6acdb84f9da42d33171f634a"
+      }
+    ],
+    "createdAt": "2026-10-13T04:49:19.624Z",
+    "updatedAt": "2026-10-13T04:49:19.634Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb8766300669ab0a66598",
+    "orderNumber": "BLC-98544-2230",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791866998497_136c01fa",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:19:58.544Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791866998557_67b0c069",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "9d4d32478b908f9746ba22c4583bef1407d446277a7252d5891acf22f865f911",
+      "paidAt": "2026-10-13T04:49:58.568Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T04:49:58.714Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T04:49:58.544Z",
+        "_id": "6acdb8766300669ab0a66599"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T04:49:58.568Z",
+        "_id": "6acdb8766300669ab0a665a5"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791866998497_136c01fa approved for order BLC-98544-2230",
+        "_id": "6acdb8766300669ab0a665b1",
+        "timestamp": "2026-10-13T04:49:58.705Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdb8766300669ab0a665b8",
+        "timestamp": "2026-10-13T04:49:58.715Z"
+      }
+    ],
+    "createdAt": "2026-10-13T04:49:58.551Z",
+    "updatedAt": "2026-10-13T04:49:58.714Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdb9c086895740305d3c6b",
+    "orderNumber": "BLC-28859-9368",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791867328776_ae20353c",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:25:28.859Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791867328881_ffd91969",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "497d2765e33796865a7a9dfa955b37a6412181c07ba1de201907ea253a560d1a",
+      "paidAt": "2026-10-13T04:55:28.906Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T04:55:29.108Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T04:55:28.859Z",
+        "_id": "6acdb9c086895740305d3c6c"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T04:55:28.907Z",
+        "_id": "6acdb9c086895740305d3c78"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791867328776_ae20353c approved for order BLC-28859-9368",
+        "_id": "6acdb9c186895740305d3c84",
+        "timestamp": "2026-10-13T04:55:29.090Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdb9c186895740305d3c8b",
+        "timestamp": "2026-10-13T04:55:29.110Z"
+      }
+    ],
+    "createdAt": "2026-10-13T04:55:28.871Z",
+    "updatedAt": "2026-10-13T04:55:29.109Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdb9cbac7debd1e1393a9f",
+    "orderNumber": "BLC-39348-2715",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791867339252_8c38631b",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:25:39.349Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791867339380_73b1eec0",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "e4330282534fa5142e36a804916965775c1c765ff75dbfa61c8b6a50622bbef2",
+      "paidAt": "2026-10-13T04:55:39.406Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T04:55:39.604Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T04:55:39.349Z",
+        "_id": "6acdb9cbac7debd1e1393aa0"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T04:55:39.406Z",
+        "_id": "6acdb9cbac7debd1e1393aac"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791867339252_8c38631b approved for order BLC-39348-2715",
+        "_id": "6acdb9cbac7debd1e1393ab8",
+        "timestamp": "2026-10-13T04:55:39.588Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdb9cbac7debd1e1393abf",
+        "timestamp": "2026-10-13T04:55:39.606Z"
+      }
+    ],
+    "createdAt": "2026-10-13T04:55:39.366Z",
+    "updatedAt": "2026-10-13T04:55:39.604Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdb9e8c979ee515c41a278",
+    "orderNumber": "BLC-68310-4135",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791867368229_21873af5",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:26:08.310Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791867368333_17021e70",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "b63f7e21156b90636105f1e196581fd2815f41990f3a53481600b6a165d115ce",
+      "paidAt": "2026-10-13T04:56:08.362Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T04:56:08.559Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T04:56:08.310Z",
+        "_id": "6acdb9e8c979ee515c41a279"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T04:56:08.362Z",
+        "_id": "6acdb9e8c979ee515c41a285"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791867368229_21873af5 approved for order BLC-68310-4135",
+        "_id": "6acdb9e8c979ee515c41a291",
+        "timestamp": "2026-10-13T04:56:08.539Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdb9e8c979ee515c41a298",
+        "timestamp": "2026-10-13T04:56:08.561Z"
+      }
+    ],
+    "createdAt": "2026-10-13T04:56:08.325Z",
+    "updatedAt": "2026-10-13T04:56:08.559Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdba63a456b965d87b4749",
+    "orderNumber": "BLC-91167-4833",
+    "userId": "6accfa080e77865350736a8a",
+    "customer": {
+      "name": "Atelier Director",
+      "email": "admin@blancatelier.com",
+      "phone": "8521479630"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": false,
+        "customDesignId": null,
+        "designVersion": 1,
+        "selectedSize": "L",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?auto=format&fit=crop&w=1200&q=80",
+        "quantity": 1,
+        "unitPricePaise": 119200,
+        "lineTotalPaise": 119200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Atelier Director",
+      "phone": "8521479630",
+      "addressLine1": "tea garden",
+      "addressLine2": "",
+      "city": "Ranchi",
+      "state": "Karnataka",
+      "postalCode": "834010",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 119200,
+      "printingFeePaise": 0,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 5960,
+      "totalAmountPaise": 135060
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "UNPAID",
+    "paymentMethod": "COD",
+    "orderExpiresAt": null,
+    "payment": {
+      "provider": "cod",
+      "status": "pending",
+      "razorpayOrderId": null,
+      "razorpayPaymentId": null,
+      "razorpaySignature": null,
+      "paidAt": null,
+      "failureReason": null
+    },
+    "fulfilmentStatus": "processing",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": null
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (COD)",
+        "action": "COD_ORDER_CONFIRMED",
+        "note": "Cash on Delivery order created for ₹1350.60",
+        "timestamp": "2026-10-13T04:58:11.168Z",
+        "_id": "6acdba63a456b965d87b474a"
+      }
+    ],
+    "createdAt": "2026-10-13T04:58:11.174Z",
+    "updatedAt": "2026-10-13T04:58:11.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbae4a456b965d87b4868",
+    "orderNumber": "BLC-20883-4268",
+    "userId": "6accfa080e77865350736a8a",
+    "customer": {
+      "name": "Atelier Director",
+      "email": "admin@blancatelier.com",
+      "phone": "8521479630"
+    },
+    "items": [
+      {
+        "productId": "6acd1020a2e63a0c5871e283",
+        "productName": "hiii",
+        "productSlug": "body-sody",
+        "isCustom": false,
+        "customDesignId": null,
+        "designVersion": 1,
+        "selectedSize": "L",
+        "selectedColor": {
+          "id": "blanc-white",
+          "name": "Blanc White",
+          "hex": "#FDFBF7"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "https://tse4.mm.bing.net/th/id/OIP.I82iWxE7axsgdkmlExeAgAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "quantity": 1,
+        "unitPricePaise": 25400,
+        "lineTotalPaise": 25400
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Atelier Director",
+      "phone": "8521479630",
+      "addressLine1": "tea garden",
+      "addressLine2": "",
+      "city": "Ranchi",
+      "state": "Karnataka",
+      "postalCode": "834010",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 25400,
+      "printingFeePaise": 0,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 1270,
+      "totalAmountPaise": 36570
+    },
+    "orderStatus": "PENDING_PAYMENT",
+    "paymentStatus": "PENDING",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:30:20.883Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "pending",
+      "razorpayOrderId": "order_1791867620898_e807a0fb",
+      "razorpayPaymentId": null,
+      "razorpaySignature": null,
+      "paidAt": null,
+      "failureReason": null
+    },
+    "fulfilmentStatus": "pending_approval",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": null
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹365.70",
+        "timestamp": "2026-10-13T05:00:20.883Z",
+        "_id": "6acdbae4a456b965d87b4869"
+      }
+    ],
+    "createdAt": "2026-10-13T05:00:20.889Z",
+    "updatedAt": "2026-10-13T05:00:20.906Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbc55a456b965d87b4afa",
+    "orderNumber": "BLC-89488-6838",
+    "userId": null,
+    "customer": {
+      "name": "Atelier Director",
+      "email": "admin@blancatelier.com",
+      "phone": "8521479630"
+    },
+    "items": [
+      {
+        "productId": "6acd1020a2e63a0c5871e283",
+        "productName": "hiii",
+        "productSlug": "body-sody",
+        "isCustom": false,
+        "customDesignId": null,
+        "designVersion": 1,
+        "selectedSize": "L",
+        "selectedColor": {
+          "id": "blanc-white",
+          "name": "Blanc White",
+          "hex": "#FDFBF7"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "https://tse4.mm.bing.net/th/id/OIP.I82iWxE7axsgdkmlExeAgAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "quantity": 1,
+        "unitPricePaise": 25400,
+        "lineTotalPaise": 25400
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Atelier Director",
+      "phone": "8521479630",
+      "addressLine1": "tea garden",
+      "addressLine2": "",
+      "city": "Ranchi",
+      "state": "Karnataka",
+      "postalCode": "834010",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 25400,
+      "printingFeePaise": 0,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 1270,
+      "totalAmountPaise": 36570
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "UNPAID",
+    "paymentMethod": "COD",
+    "orderExpiresAt": null,
+    "payment": {
+      "provider": "cod",
+      "status": "pending",
+      "razorpayOrderId": null,
+      "razorpayPaymentId": null,
+      "razorpaySignature": null,
+      "paidAt": null,
+      "failureReason": null
+    },
+    "fulfilmentStatus": "processing",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": null
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (COD)",
+        "action": "COD_ORDER_CONFIRMED",
+        "note": "Cash on Delivery order created for ₹365.70",
+        "timestamp": "2026-10-13T05:06:29.488Z",
+        "_id": "6acdbc55a456b965d87b4afb"
+      }
+    ],
+    "createdAt": "2026-10-13T05:06:29.496Z",
+    "updatedAt": "2026-10-13T05:06:29.496Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbe29bea11980c4588e26",
+    "orderNumber": "BLC-57876-6562",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868457641_9d216062",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "PENDING_PAYMENT",
+    "paymentStatus": "PENDING",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:44:17.876Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "pending",
+      "razorpayOrderId": "order_1791868458141_ad3d7460",
+      "razorpayPaymentId": null,
+      "razorpaySignature": null,
+      "paidAt": null,
+      "failureReason": null
+    },
+    "fulfilmentStatus": "pending_approval",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": null
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:14:17.876Z",
+        "_id": "6acdbe29bea11980c4588e27"
+      }
+    ],
+    "createdAt": "2026-10-13T05:14:17.916Z",
+    "updatedAt": "2026-10-13T05:14:18.249Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbe71cfb33098e4a8e1df",
+    "orderNumber": "BLC-29325-8755",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868527796_d915c6d0",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "PROCESSING",
+    "paymentStatus": "PENDING",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:45:29.326Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "pending",
+      "razorpayOrderId": "order_1791868529485_8af734b5",
+      "razorpayPaymentId": null,
+      "razorpaySignature": null,
+      "paidAt": null,
+      "failureReason": null
+    },
+    "fulfilmentStatus": "in_production",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": null
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:15:29.326Z",
+        "_id": "6acdbe71cfb33098e4a8e1e0"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "Status updated from \"PENDING_PAYMENT\" to \"PROCESSING (in_production)\"",
+        "note": "",
+        "timestamp": "2026-10-13T05:31:09.043Z",
+        "_id": "6acdc21d7f23fedc739a6207"
+      }
+    ],
+    "createdAt": "2026-10-13T05:15:29.423Z",
+    "updatedAt": "2026-10-13T05:31:09.055Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdbeed7df6cdc9c2d1e877",
+    "orderNumber": "BLC-53135-6362",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868653034_d8a1b8d9",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:47:33.136Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791868653166_5ddefdb9",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "a4971afcf90672172b2178dfacf8ce16a9690d7d8ffc553a2ec184772a50829e",
+      "paidAt": "2026-10-13T05:17:33.190Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T05:17:33.384Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:17:33.136Z",
+        "_id": "6acdbeed7df6cdc9c2d1e878"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T05:17:33.190Z",
+        "_id": "6acdbeed7df6cdc9c2d1e884"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791868653034_d8a1b8d9 approved for order BLC-53135-6362",
+        "_id": "6acdbeed7df6cdc9c2d1e890",
+        "timestamp": "2026-10-13T05:17:33.367Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdbeed7df6cdc9c2d1e897",
+        "timestamp": "2026-10-13T05:17:33.386Z"
+      }
+    ],
+    "createdAt": "2026-10-13T05:17:33.153Z",
+    "updatedAt": "2026-10-13T05:17:33.384Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdbefbcf771d6504e37ba5",
+    "orderNumber": "BLC-67213-5104",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868667108_16292bee",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:47:47.213Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791868667241_aaae751f",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "c4ac5e8a33d79820e22572397de6a5ab3366f0401bb2131e5e75967d417fbd91",
+      "paidAt": "2026-10-13T05:17:47.265Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T05:17:47.464Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:17:47.213Z",
+        "_id": "6acdbefbcf771d6504e37ba6"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T05:17:47.265Z",
+        "_id": "6acdbefbcf771d6504e37bb2"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791868667108_16292bee approved for order BLC-67213-5104",
+        "_id": "6acdbefbcf771d6504e37bbe",
+        "timestamp": "2026-10-13T05:17:47.447Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdbefbcf771d6504e37bc5",
+        "timestamp": "2026-10-13T05:17:47.466Z"
+      }
+    ],
+    "createdAt": "2026-10-13T05:17:47.228Z",
+    "updatedAt": "2026-10-13T05:17:47.464Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdbff33c52973bceaa54d4",
+    "orderNumber": "BLC-15119-9813",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868914963_c6509925",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:51:55.119Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791868915152_3b4db19b",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "33cb09e817dc16583c93bc0a434c6e818907eb153c26ee74cd15034df9ddd98f",
+      "paidAt": "2026-10-13T05:21:55.181Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T05:21:55.400Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:21:55.119Z",
+        "_id": "6acdbff33c52973bceaa54d5"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T05:21:55.181Z",
+        "_id": "6acdbff33c52973bceaa54e1"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791868914963_c6509925 approved for order BLC-15119-9813",
+        "_id": "6acdbff33c52973bceaa54ed",
+        "timestamp": "2026-10-13T05:21:55.381Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdbff33c52973bceaa54f4",
+        "timestamp": "2026-10-13T05:21:55.402Z"
+      }
+    ],
+    "createdAt": "2026-10-13T05:21:55.137Z",
+    "updatedAt": "2026-10-13T05:21:55.400Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc1b501bb19ba97c7e833",
+    "orderNumber": "BLC-65198-3170",
+    "userId": null,
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869365080_180141e2",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN"
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T05:59:25.198Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791869365224_3f1ed36f",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "608c6376568672f1cd6b8cd9a0560761269d64043b00219b845f66a3c2c267a8",
+      "paidAt": "2026-10-13T05:29:25.250Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T05:29:25.467Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:29:25.198Z",
+        "_id": "6acdc1b501bb19ba97c7e834"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T05:29:25.250Z",
+        "_id": "6acdc1b501bb19ba97c7e840"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791869365080_180141e2 approved for order BLC-65198-3170",
+        "_id": "6acdc1b501bb19ba97c7e84c",
+        "timestamp": "2026-10-13T05:29:25.451Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdc1b501bb19ba97c7e853",
+        "timestamp": "2026-10-13T05:29:25.469Z"
+      }
+    ],
+    "createdAt": "2026-10-13T05:29:25.215Z",
+    "updatedAt": "2026-10-13T05:29:25.467Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc32625c6d009c64d3306",
+    "orderNumber": "BLC-34192-7262",
+    "userId": "6acdc32625c6d009c64d32f9",
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869733958_00332c60",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN",
+      "label": "Home",
+      "deliveryInstructions": ""
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T06:05:34.192Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791869734213_b6a0e936",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "a1eee7474b4276aea781f14b396f09058c66df2dbfdfa2d2609c81990790874c",
+      "paidAt": "2026-10-13T05:35:34.237Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T05:35:34.569Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:35:34.192Z",
+        "_id": "6acdc32625c6d009c64d3307"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T05:35:34.237Z",
+        "_id": "6acdc32625c6d009c64d3316"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791869733958_00332c60 approved for order BLC-34192-7262",
+        "_id": "6acdc32625c6d009c64d3327",
+        "timestamp": "2026-10-13T05:35:34.550Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdc32625c6d009c64d332e",
+        "timestamp": "2026-10-13T05:35:34.571Z"
+      }
+    ],
+    "createdAt": "2026-10-13T05:35:34.202Z",
+    "updatedAt": "2026-10-13T05:35:34.569Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc35cc956be73c7edb0c8",
+    "orderNumber": "BLC-88801-1233",
+    "userId": "6acdc35cc956be73c7edb0bb",
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869788570_752d3fb2",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN",
+      "label": "Home",
+      "deliveryInstructions": ""
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T06:06:28.801Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791869788825_ce5fd3d6",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "e3e81b726f3f42f5dfe3df4d43370a6fdef63b9b453110c1f1c458fb52d5a85b",
+      "paidAt": "2026-10-13T05:36:28.847Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T05:36:29.027Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:36:28.801Z",
+        "_id": "6acdc35cc956be73c7edb0c9"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T05:36:28.847Z",
+        "_id": "6acdc35cc956be73c7edb0d8"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791869788570_752d3fb2 approved for order BLC-88801-1233",
+        "_id": "6acdc35dc956be73c7edb0e9",
+        "timestamp": "2026-10-13T05:36:29.004Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdc35dc956be73c7edb0f0",
+        "timestamp": "2026-10-13T05:36:29.030Z"
+      }
+    ],
+    "createdAt": "2026-10-13T05:36:28.813Z",
+    "updatedAt": "2026-10-13T05:36:29.028Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc3a2cfb877a04fc1db5b",
+    "orderNumber": "BLC-58572-8015",
+    "userId": "6acdc3a2cfb877a04fc1db4e",
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869858291_c6f98ea3",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN",
+      "label": "Home",
+      "deliveryInstructions": ""
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T06:07:38.573Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791869858597_476fc349",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "6ebdb3dbb27a6b9213faabe2250f3715885af340ad67f52f06670e7b994a0809",
+      "paidAt": "2026-10-13T05:37:38.618Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T05:37:38.808Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:37:38.573Z",
+        "_id": "6acdc3a2cfb877a04fc1db5c"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T05:37:38.618Z",
+        "_id": "6acdc3a2cfb877a04fc1db6b"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791869858291_c6f98ea3 approved for order BLC-58572-8015",
+        "_id": "6acdc3a2cfb877a04fc1db7c",
+        "timestamp": "2026-10-13T05:37:38.789Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdc3a2cfb877a04fc1db83",
+        "timestamp": "2026-10-13T05:37:38.811Z"
+      }
+    ],
+    "createdAt": "2026-10-13T05:37:38.583Z",
+    "updatedAt": "2026-10-13T05:37:38.809Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc3c8dd71481bb096883a",
+    "orderNumber": "BLC-96147-3189",
+    "userId": "6acdc3c8dd71481bb096882d",
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869895890_68c68ec7",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN",
+      "label": "Home",
+      "deliveryInstructions": ""
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T06:08:16.147Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791869896176_8cd23b33",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "aa4387aa4ea5e52a7d5fa9e25d2bf7635910491ef86041bb83c4cb1f777013e2",
+      "paidAt": "2026-10-13T05:38:16.203Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T05:38:16.423Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:38:16.147Z",
+        "_id": "6acdc3c8dd71481bb096883b"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T05:38:16.204Z",
+        "_id": "6acdc3c8dd71481bb096884a"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791869895890_68c68ec7 approved for order BLC-96147-3189",
+        "_id": "6acdc3c8dd71481bb096885b",
+        "timestamp": "2026-10-13T05:38:16.405Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdc3c8dd71481bb0968862",
+        "timestamp": "2026-10-13T05:38:16.425Z"
+      }
+    ],
+    "createdAt": "2026-10-13T05:38:16.160Z",
+    "updatedAt": "2026-10-13T05:38:16.424Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc4a3a6151a053a6fca30",
+    "orderNumber": "BLC-15162-5116",
+    "userId": "6accfa920e77865350736c49",
+    "customer": {
+      "name": "prakash77saw@gmail.com3",
+      "email": "prakash77saw@gmail.com3",
+      "phone": "8521479630"
+    },
+    "items": [
+      {
+        "productId": "6acd1020a2e63a0c5871e283",
+        "productName": "hiii",
+        "productSlug": "body-sody",
+        "isCustom": false,
+        "customDesignId": null,
+        "designVersion": 1,
+        "selectedSize": "L",
+        "selectedColor": {
+          "id": "blanc-white",
+          "name": "Blanc White",
+          "hex": "#FDFBF7"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "https://tse4.mm.bing.net/th/id/OIP.I82iWxE7axsgdkmlExeAgAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "quantity": 2,
+        "unitPricePaise": 25400,
+        "lineTotalPaise": 50800
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "prakash77saw@gmail.com3",
+      "phone": "8521479630",
+      "addressLine1": "tea garden",
+      "addressLine2": "",
+      "city": "Ranchi",
+      "state": "Karnataka",
+      "postalCode": "834010",
+      "country": "IN",
+      "label": "Home",
+      "deliveryInstructions": ""
+    },
+    "pricing": {
+      "subtotalPaise": 50800,
+      "printingFeePaise": 0,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 2540,
+      "totalAmountPaise": 63240
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "UNPAID",
+    "paymentMethod": "COD",
+    "orderExpiresAt": null,
+    "payment": {
+      "provider": "cod",
+      "status": "pending",
+      "razorpayOrderId": null,
+      "razorpayPaymentId": null,
+      "razorpaySignature": null,
+      "paidAt": null,
+      "failureReason": null
+    },
+    "fulfilmentStatus": "processing",
+    "tracking": {
+      "carrier": "BlueDart / Delhivery",
+      "trackingNumber": "",
+      "trackingUrl": "",
+      "shippedAt": null
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (COD)",
+        "action": "COD_ORDER_CONFIRMED",
+        "note": "Cash on Delivery order created for ₹632.40",
+        "timestamp": "2026-10-13T05:41:55.162Z",
+        "_id": "6acdc4a3a6151a053a6fca31"
+      }
+    ],
+    "createdAt": "2026-10-13T05:41:55.168Z",
+    "updatedAt": "2026-10-13T05:41:55.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc8384c4d309f65ddcf47",
+    "orderNumber": "BLC-32068-2559",
+    "userId": "6acdc8384c4d309f65ddcf3a",
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791871031872_4f5672bf",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN",
+      "label": "Home",
+      "deliveryInstructions": ""
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T06:27:12.068Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791871032091_5b77ebb4",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "faa28b7b8b74b4f29b71a829dc3cd6b57a0671207278745376d1a2abed8fa23e",
+      "paidAt": "2026-10-13T05:57:12.112Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T05:57:12.294Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T05:57:12.068Z",
+        "_id": "6acdc8384c4d309f65ddcf48"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T05:57:12.112Z",
+        "_id": "6acdc8384c4d309f65ddcf57"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791871031872_4f5672bf approved for order BLC-32068-2559",
+        "_id": "6acdc8384c4d309f65ddcf68",
+        "timestamp": "2026-10-13T05:57:12.279Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdc8384c4d309f65ddcf6f",
+        "timestamp": "2026-10-13T05:57:12.295Z"
+      }
+    ],
+    "createdAt": "2026-10-13T05:57:12.079Z",
+    "updatedAt": "2026-10-13T05:57:12.294Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdce501358750177816813",
+    "orderNumber": "BLC-92103-2290",
+    "userId": "6acdce501358750177816806",
+    "customer": {
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma@gmail.com",
+      "phone": "9876543210"
+    },
+    "items": [
+      {
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791872591888_1f8c3ac2",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Kabir Sharma",
+      "phone": "9876543210",
+      "addressLine1": "Villa 14, Brigade Palm Springs",
+      "addressLine2": "",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560078",
+      "country": "IN",
+      "label": "Home",
+      "deliveryInstructions": ""
+    },
+    "pricing": {
+      "subtotalPaise": 144200,
+      "printingFeePaise": 25000,
+      "shippingFeePaise": 9900,
+      "discountPaise": 0,
+      "taxPaise": 7210,
+      "totalAmountPaise": 161310
+    },
+    "orderStatus": "CONFIRMED",
+    "paymentStatus": "PAID",
+    "paymentMethod": "PREPAID",
+    "orderExpiresAt": "2026-10-13T06:53:12.103Z",
+    "payment": {
+      "provider": "razorpay",
+      "status": "captured",
+      "razorpayOrderId": "order_1791872592122_1bcda551",
+      "razorpayPaymentId": "pay_test_verified_123",
+      "razorpaySignature": "dbb274df4c7523e39de3c99c276383bbdb06b0ec3814803ed1e33271b02188ed",
+      "paidAt": "2026-10-13T06:23:12.138Z",
+      "failureReason": null
+    },
+    "fulfilmentStatus": "shipped",
+    "tracking": {
+      "carrier": "BlueDart Express",
+      "trackingNumber": "BD987654321",
+      "trackingUrl": "https://www.bluedart.com/tracking?track=BD987654321",
+      "shippedAt": "2026-10-13T06:23:12.279Z"
+    },
+    "rejectionReason": "",
+    "appliedReferralCode": null,
+    "couponCode": null,
+    "auditLog": [
+      {
+        "actor": "Customer (Prepaid Checkout)",
+        "action": "PREPAID_ORDER_INITIATED",
+        "note": "Online payment checkout initiated for ₹1613.10",
+        "timestamp": "2026-10-13T06:23:12.103Z",
+        "_id": "6acdce501358750177816814"
+      },
+      {
+        "actor": "PaymentGateway",
+        "action": "PAYMENT_VERIFIED_AND_ORDER_CONFIRMED",
+        "note": "Verified ₹1613.10 via Transaction ID: pay_test_verified_123",
+        "timestamp": "2026-10-13T06:23:12.138Z",
+        "_id": "6acdce501358750177816823"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "ARTWORK_APPROVED",
+        "note": "Custom design dsgn_1791872591888_1f8c3ac2 approved for order BLC-92103-2290",
+        "_id": "6acdce501358750177816834",
+        "timestamp": "2026-10-13T06:23:12.266Z"
+      },
+      {
+        "actor": "admin@blancatelier.com",
+        "action": "PRODUCTION_STATUS_COMPLETED",
+        "note": "Production updated to completed",
+        "_id": "6acdce50135875017781683b",
+        "timestamp": "2026-10-13T06:23:12.281Z"
+      }
+    ],
+    "createdAt": "2026-10-13T06:23:12.112Z",
+    "updatedAt": "2026-10-13T06:23:12.279Z",
+    "__v": 1
+  }
+]

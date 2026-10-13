@@ -1,0 +1,24 @@
+{
+  "name": "blanc-atelier-ecommerce",
+  "version": "1.0.0",
+  "description": "Premium Minimalist T-Shirt Ecommerce + Print-on-Demand Studio for College & Gen Z Creators in India",
+  "scripts": {
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "seed": "cd server && npm run seed",
+    "test": "cd server && npm test",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build",
+    "dev": "node run-dev.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "print-on-demand",
+    "t-shirt",
+    "minimalist",
+    "india",
+    "gen-z"
+  ],
+  "author": "BLANC ATELIER",
+  "license": "ISC"
+}

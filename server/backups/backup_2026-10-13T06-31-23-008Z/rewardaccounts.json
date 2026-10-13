@@ -1,0 +1,186 @@
+[
+  {
+    "_id": "6acd01ccdce2d5406f784097",
+    "userId": "6accfa920e77865350736c49",
+    "referralCode": "BLANC-9457",
+    "pointsBalance": 50,
+    "lifetimePointsEarned": 50,
+    "referredBy": null,
+    "history": [
+      {
+        "type": "referral_bonus",
+        "points": 50,
+        "orderId": null,
+        "note": "Welcome to BLANC Atelier Rewards Circle (Complimentary Credit)",
+        "couponCode": "",
+        "_id": "6acd01ccdce2d5406f784098",
+        "date": "2026-10-12T15:50:36.367Z"
+      }
+    ],
+    "referrals": [],
+    "createdAt": "2026-10-12T15:50:36.368Z",
+    "updatedAt": "2026-10-12T15:50:36.368Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd02eddce2d5406f784253",
+    "userId": "6accfa080e77865350736a8a",
+    "referralCode": "BLANC-LY2D",
+    "pointsBalance": 50,
+    "lifetimePointsEarned": 50,
+    "referredBy": null,
+    "history": [
+      {
+        "type": "referral_bonus",
+        "points": 50,
+        "orderId": null,
+        "note": "Welcome to BLANC Atelier Rewards Circle (Complimentary Credit)",
+        "couponCode": "",
+        "_id": "6acd02eddce2d5406f784254",
+        "date": "2026-10-12T15:55:25.118Z"
+      }
+    ],
+    "referrals": [],
+    "createdAt": "2026-10-12T15:55:25.120Z",
+    "updatedAt": "2026-10-12T15:55:25.120Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc32625c6d009c64d331e",
+    "userId": "6acdc32625c6d009c64d32f9",
+    "referralCode": "BLANC-YU3B",
+    "pointsBalance": 50,
+    "lifetimePointsEarned": 50,
+    "referredBy": null,
+    "history": [
+      {
+        "type": "referral_bonus",
+        "points": 50,
+        "orderId": null,
+        "note": "Welcome to BLANC Atelier Rewards Circle (Complimentary Credit)",
+        "couponCode": "",
+        "_id": "6acdc32625c6d009c64d331f",
+        "date": "2026-10-13T05:35:34.295Z"
+      }
+    ],
+    "referrals": [],
+    "createdAt": "2026-10-13T05:35:34.296Z",
+    "updatedAt": "2026-10-13T05:35:34.296Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc35cc956be73c7edb0e0",
+    "userId": "6acdc35cc956be73c7edb0bb",
+    "referralCode": "BLANC-XH9L",
+    "pointsBalance": 50,
+    "lifetimePointsEarned": 50,
+    "referredBy": null,
+    "history": [
+      {
+        "type": "referral_bonus",
+        "points": 50,
+        "orderId": null,
+        "note": "Welcome to BLANC Atelier Rewards Circle (Complimentary Credit)",
+        "couponCode": "",
+        "_id": "6acdc35cc956be73c7edb0e1",
+        "date": "2026-10-13T05:36:28.867Z"
+      }
+    ],
+    "referrals": [],
+    "createdAt": "2026-10-13T05:36:28.867Z",
+    "updatedAt": "2026-10-13T05:36:28.867Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc3a2cfb877a04fc1db73",
+    "userId": "6acdc3a2cfb877a04fc1db4e",
+    "referralCode": "BLANC-XUYA",
+    "pointsBalance": 50,
+    "lifetimePointsEarned": 50,
+    "referredBy": null,
+    "history": [
+      {
+        "type": "referral_bonus",
+        "points": 50,
+        "orderId": null,
+        "note": "Welcome to BLANC Atelier Rewards Circle (Complimentary Credit)",
+        "couponCode": "",
+        "_id": "6acdc3a2cfb877a04fc1db74",
+        "date": "2026-10-13T05:37:38.639Z"
+      }
+    ],
+    "referrals": [],
+    "createdAt": "2026-10-13T05:37:38.641Z",
+    "updatedAt": "2026-10-13T05:37:38.641Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc3c8dd71481bb0968852",
+    "userId": "6acdc3c8dd71481bb096882d",
+    "referralCode": "BLANC-KT3X",
+    "pointsBalance": 50,
+    "lifetimePointsEarned": 50,
+    "referredBy": null,
+    "history": [
+      {
+        "type": "referral_bonus",
+        "points": 50,
+        "orderId": null,
+        "note": "Welcome to BLANC Atelier Rewards Circle (Complimentary Credit)",
+        "couponCode": "",
+        "_id": "6acdc3c8dd71481bb0968853",
+        "date": "2026-10-13T05:38:16.237Z"
+      }
+    ],
+    "referrals": [],
+    "createdAt": "2026-10-13T05:38:16.238Z",
+    "updatedAt": "2026-10-13T05:38:16.238Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc8384c4d309f65ddcf5f",
+    "userId": "6acdc8384c4d309f65ddcf3a",
+    "referralCode": "BLANC-SMKG",
+    "pointsBalance": 50,
+    "lifetimePointsEarned": 50,
+    "referredBy": null,
+    "history": [
+      {
+        "type": "referral_bonus",
+        "points": 50,
+        "orderId": null,
+        "note": "Welcome to BLANC Atelier Rewards Circle (Complimentary Credit)",
+        "couponCode": "",
+        "_id": "6acdc8384c4d309f65ddcf60",
+        "date": "2026-10-13T05:57:12.132Z"
+      }
+    ],
+    "referrals": [],
+    "createdAt": "2026-10-13T05:57:12.133Z",
+    "updatedAt": "2026-10-13T05:57:12.133Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdce50135875017781682b",
+    "userId": "6acdce501358750177816806",
+    "referralCode": "BLANC-79WA",
+    "pointsBalance": 50,
+    "lifetimePointsEarned": 50,
+    "referredBy": null,
+    "history": [
+      {
+        "type": "referral_bonus",
+        "points": 50,
+        "orderId": null,
+        "note": "Welcome to BLANC Atelier Rewards Circle (Complimentary Credit)",
+        "couponCode": "",
+        "_id": "6acdce50135875017781682c",
+        "date": "2026-10-13T06:23:12.151Z"
+      }
+    ],
+    "referrals": [],
+    "createdAt": "2026-10-13T06:23:12.152Z",
+    "updatedAt": "2026-10-13T06:23:12.152Z",
+    "__v": 0
+  }
+]

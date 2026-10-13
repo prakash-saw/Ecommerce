@@ -1,0 +1,60 @@
+[
+  {
+    "_id": "6acdb530cb6ccb69cd5341eb",
+    "email": "prakashsawsaw79@gmail.com",
+    "otpHash": "$2a$10$tUS9hx1e8M6QeRSHkanuWeaWmojFay9r8CJCE83E27nqCi2PJZykS",
+    "purpose": "forgot_password",
+    "attempts": 2,
+    "maxAttempts": 5,
+    "expiresAt": "2026-10-13T04:41:00.537Z",
+    "resendAvailableAt": "2026-10-13T04:37:00.537Z",
+    "isUsed": true,
+    "resetTokenHash": "661b28605e60290fe3af5c5acaccf3ee482f17c6286a0418e0ca172d267e8fdd",
+    "resetTokenExpiresAt": "2026-10-13T04:46:41.372Z",
+    "createdAt": "2026-10-13T04:36:00.538Z",
+    "updatedAt": "2026-10-13T04:36:41.372Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc662a6151a053a6fcc89",
+    "email": "manjack@gmail.com",
+    "otpHash": "$2a$10$EH4FsztxuegxbmKxnMLiouJNxjvwOAF5hULaRcIRJ/I4iJxN5.uPy",
+    "purpose": "signup",
+    "pendingUserData": {
+      "name": "Saini Mahli",
+      "passwordHash": "$2a$10$EH4FsztxuegxbmKxnMLiouFkSmvyGEzkwbxeUEpOpQuPqSN3bm2bO",
+      "phone": "7870327484"
+    },
+    "attempts": 0,
+    "maxAttempts": 5,
+    "expiresAt": "2026-10-13T05:54:22.416Z",
+    "resendAvailableAt": "2026-10-13T05:50:22.416Z",
+    "isUsed": true,
+    "resetTokenHash": null,
+    "resetTokenExpiresAt": null,
+    "createdAt": "2026-10-13T05:49:22.417Z",
+    "updatedAt": "2026-10-13T05:53:00.431Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc73ca6151a053a6fcd35",
+    "email": "manjack@gmail.com",
+    "otpHash": "$2a$10$ma2lWV07OoDpf.HH0k7Lh.rEacmb5N9z/YoWSuX9kWJJqFoFTPIqu",
+    "purpose": "signup",
+    "pendingUserData": {
+      "name": "Saini Mahli",
+      "passwordHash": "$2a$10$ma2lWV07OoDpf.HH0k7Lh.03DEZ5BVfflsPCxBRXwwoA8cX2ScM7W",
+      "phone": "7870327484"
+    },
+    "attempts": 5,
+    "maxAttempts": 5,
+    "expiresAt": "2026-10-13T05:58:00.590Z",
+    "resendAvailableAt": "2026-10-13T05:54:00.590Z",
+    "isUsed": true,
+    "resetTokenHash": null,
+    "resetTokenExpiresAt": null,
+    "createdAt": "2026-10-13T05:53:00.591Z",
+    "updatedAt": "2026-10-13T05:53:21.870Z",
+    "__v": 0
+  }
+]

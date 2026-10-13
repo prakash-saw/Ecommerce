@@ -1,0 +1,1109 @@
+[
+  {
+    "_id": "6accfa290e77865350736c16",
+    "orderId": "6accfa290e77865350736bf6",
+    "orderNumber": "BLC-81606-4959",
+    "customDesignId": "dsgn_1791818281477_cc6ec67a",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T15:18:01.799Z\",\"orderNumber\":\"BLC-81606-4959\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T15:18:01.898Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T15:18:01.800Z",
+    "updatedAt": "2026-10-12T15:18:01.914Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfbc60e77865350736cd0",
+    "orderId": "6accfbc60e77865350736cba",
+    "orderNumber": "BLC-94165-4600",
+    "customDesignId": "dsgn_1791818694012_654a5c76",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T15:24:54.369Z\",\"orderNumber\":\"BLC-94165-4600\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T15:24:54.484Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T15:24:54.370Z",
+    "updatedAt": "2026-10-12T15:24:54.498Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfcd10e77865350736ea5",
+    "orderId": "6accfcd10e77865350736e8f",
+    "orderNumber": "BLC-61618-8633",
+    "customDesignId": "dsgn_1791818961514_a34ca854",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T15:29:21.787Z\",\"orderNumber\":\"BLC-61618-8633\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T15:29:21.877Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T15:29:21.788Z",
+    "updatedAt": "2026-10-12T15:29:21.887Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfd380e77865350736f1b",
+    "orderId": "6accfd370e77865350736f07",
+    "orderNumber": "BLC-63977-5535",
+    "customDesignId": "dsgn_1791819063881_68bba2dd",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T15:31:04.003Z\",\"orderNumber\":\"BLC-63977-5535\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T15:31:04.221Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T15:31:04.004Z",
+    "updatedAt": "2026-10-12T15:31:04.229Z",
+    "__v": 0
+  },
+  {
+    "_id": "6accfffa0e7786535073714c",
+    "orderId": "6accfffa0e7786535073712c",
+    "orderNumber": "BLC-70721-2057",
+    "customDesignId": "dsgn_1791819770683_c19b6a78",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T15:42:50.901Z\",\"orderNumber\":\"BLC-70721-2057\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T15:42:50.992Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T15:42:50.902Z",
+    "updatedAt": "2026-10-12T15:42:51.002Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd00140e778653507371b7",
+    "orderId": "6acd00130e778653507371a0",
+    "orderNumber": "BLC-95988-7638",
+    "customDesignId": "dsgn_1791819795889_f077252e",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T15:43:16.017Z\",\"orderNumber\":\"BLC-95988-7638\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T15:43:16.245Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T15:43:16.018Z",
+    "updatedAt": "2026-10-12T15:43:16.253Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd008f0e77865350737242",
+    "orderId": "6acd008f0e77865350737222",
+    "orderNumber": "BLC-19022-6231",
+    "customDesignId": "dsgn_1791819918971_60a7fc6d",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T15:45:19.238Z\",\"orderNumber\":\"BLC-19022-6231\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T15:45:19.346Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T15:45:19.239Z",
+    "updatedAt": "2026-10-12T15:45:19.360Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd038cdce2d5406f784428",
+    "orderId": "6acd038cdce2d5406f7843eb",
+    "orderNumber": "BLC-84723-4183",
+    "customDesignId": "dsgn_1791820684661_e3903fbc",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T15:58:04.937Z\",\"orderNumber\":\"BLC-84723-4183\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T15:58:05.064Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T15:58:04.939Z",
+    "updatedAt": "2026-10-12T15:58:05.083Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd041edce2d5406f78492e",
+    "orderId": "6acd041edce2d5406f7848f2",
+    "orderNumber": "BLC-30176-9995",
+    "customDesignId": "dsgn_1791820830048_576f26b0",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T16:00:30.470Z\",\"orderNumber\":\"BLC-30176-9995\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T16:00:30.598Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T16:00:30.472Z",
+    "updatedAt": "2026-10-12T16:00:30.614Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd043edce2d5406f784ae1",
+    "orderId": "6acd043edce2d5406f784aa3",
+    "orderNumber": "BLC-62636-8166",
+    "customDesignId": "dsgn_1791820862509_4ccfd14d",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T16:01:02.845Z\",\"orderNumber\":\"BLC-62636-8166\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T16:01:02.964Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T16:01:02.847Z",
+    "updatedAt": "2026-10-12T16:01:02.979Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd0493dce2d5406f784c2e",
+    "orderId": "6acd0493dce2d5406f784bf0",
+    "orderNumber": "BLC-47049-5393",
+    "customDesignId": "dsgn_1791820946940_8f4a7ab6",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T16:02:27.231Z\",\"orderNumber\":\"BLC-47049-5393\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T16:02:27.325Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T16:02:27.232Z",
+    "updatedAt": "2026-10-12T16:02:27.337Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd06a7dce2d5406f784ec5",
+    "orderId": "6acd06a7dce2d5406f784ead",
+    "orderNumber": "BLC-79103-2147",
+    "customDesignId": "dsgn_1791821478951_10fad0f1",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T16:11:19.240Z\",\"orderNumber\":\"BLC-79103-2147\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T16:11:19.457Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T16:11:19.241Z",
+    "updatedAt": "2026-10-12T16:11:19.473Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd082763ce9371be95a03e",
+    "orderId": "6acd082763ce9371be95a001",
+    "orderNumber": "BLC-63019-9406",
+    "customDesignId": "dsgn_1791821862949_23a860b6",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-12T16:17:43.250Z\",\"orderNumber\":\"BLC-63019-9406\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-12T16:17:43.417Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-12T16:17:43.252Z",
+    "updatedAt": "2026-10-12T16:17:43.454Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb8766300669ab0a665a8",
+    "orderId": "6acdb8766300669ab0a66598",
+    "orderNumber": "BLC-98544-2230",
+    "customDesignId": "dsgn_1791866998497_136c01fa",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T04:49:58.573Z\",\"orderNumber\":\"BLC-98544-2230\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T04:49:58.703Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T04:49:58.574Z",
+    "updatedAt": "2026-10-13T04:49:58.713Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb9c086895740305d3c7b",
+    "orderId": "6acdb9c086895740305d3c6b",
+    "orderNumber": "BLC-28859-9368",
+    "customDesignId": "dsgn_1791867328776_ae20353c",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T04:55:28.914Z\",\"orderNumber\":\"BLC-28859-9368\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T04:55:29.086Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T04:55:28.917Z",
+    "updatedAt": "2026-10-13T04:55:29.106Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb9cbac7debd1e1393aaf",
+    "orderId": "6acdb9cbac7debd1e1393a9f",
+    "orderNumber": "BLC-39348-2715",
+    "customDesignId": "dsgn_1791867339252_8c38631b",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T04:55:39.415Z\",\"orderNumber\":\"BLC-39348-2715\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T04:55:39.583Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T04:55:39.417Z",
+    "updatedAt": "2026-10-13T04:55:39.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdb9e8c979ee515c41a288",
+    "orderId": "6acdb9e8c979ee515c41a278",
+    "orderNumber": "BLC-68310-4135",
+    "customDesignId": "dsgn_1791867368229_21873af5",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T04:56:08.369Z\",\"orderNumber\":\"BLC-68310-4135\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T04:56:08.535Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T04:56:08.371Z",
+    "updatedAt": "2026-10-13T04:56:08.556Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbeed7df6cdc9c2d1e887",
+    "orderId": "6acdbeed7df6cdc9c2d1e877",
+    "orderNumber": "BLC-53135-6362",
+    "customDesignId": "dsgn_1791868653034_d8a1b8d9",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T05:17:33.199Z\",\"orderNumber\":\"BLC-53135-6362\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T05:17:33.363Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T05:17:33.201Z",
+    "updatedAt": "2026-10-13T05:17:33.382Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbefbcf771d6504e37bb5",
+    "orderId": "6acdbefbcf771d6504e37ba5",
+    "orderNumber": "BLC-67213-5104",
+    "customDesignId": "dsgn_1791868667108_16292bee",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T05:17:47.276Z\",\"orderNumber\":\"BLC-67213-5104\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T05:17:47.444Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T05:17:47.278Z",
+    "updatedAt": "2026-10-13T05:17:47.461Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdbff33c52973bceaa54e4",
+    "orderId": "6acdbff33c52973bceaa54d4",
+    "orderNumber": "BLC-15119-9813",
+    "customDesignId": "dsgn_1791868914963_c6509925",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T05:21:55.191Z\",\"orderNumber\":\"BLC-15119-9813\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T05:21:55.376Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T05:21:55.193Z",
+    "updatedAt": "2026-10-13T05:21:55.397Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc1b501bb19ba97c7e843",
+    "orderId": "6acdc1b501bb19ba97c7e833",
+    "orderNumber": "BLC-65198-3170",
+    "customDesignId": "dsgn_1791869365080_180141e2",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T05:29:25.258Z\",\"orderNumber\":\"BLC-65198-3170\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T05:29:25.448Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T05:29:25.261Z",
+    "updatedAt": "2026-10-13T05:29:25.465Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc32625c6d009c64d3319",
+    "orderId": "6acdc32625c6d009c64d3306",
+    "orderNumber": "BLC-34192-7262",
+    "customDesignId": "dsgn_1791869733958_00332c60",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T05:35:34.248Z\",\"orderNumber\":\"BLC-34192-7262\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"isBold\":false,\"isItalic\":false,\"isLocked\":false,\"zIndex\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T05:35:34.545Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T05:35:34.250Z",
+    "updatedAt": "2026-10-13T05:35:34.566Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc35cc956be73c7edb0db",
+    "orderId": "6acdc35cc956be73c7edb0c8",
+    "orderNumber": "BLC-88801-1233",
+    "customDesignId": "dsgn_1791869788570_752d3fb2",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T05:36:28.856Z\",\"orderNumber\":\"BLC-88801-1233\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"isBold\":false,\"isItalic\":false,\"isLocked\":false,\"zIndex\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T05:36:29.000Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T05:36:28.857Z",
+    "updatedAt": "2026-10-13T05:36:29.025Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc3a2cfb877a04fc1db6e",
+    "orderId": "6acdc3a2cfb877a04fc1db5b",
+    "orderNumber": "BLC-58572-8015",
+    "customDesignId": "dsgn_1791869858291_c6f98ea3",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T05:37:38.627Z\",\"orderNumber\":\"BLC-58572-8015\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"isBold\":false,\"isItalic\":false,\"isLocked\":false,\"zIndex\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T05:37:38.785Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T05:37:38.629Z",
+    "updatedAt": "2026-10-13T05:37:38.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc3c8dd71481bb096884d",
+    "orderId": "6acdc3c8dd71481bb096883a",
+    "orderNumber": "BLC-96147-3189",
+    "customDesignId": "dsgn_1791869895890_68c68ec7",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T05:38:16.215Z\",\"orderNumber\":\"BLC-96147-3189\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"isBold\":false,\"isItalic\":false,\"isLocked\":false,\"zIndex\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T05:38:16.400Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T05:38:16.218Z",
+    "updatedAt": "2026-10-13T05:38:16.420Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc8384c4d309f65ddcf5a",
+    "orderId": "6acdc8384c4d309f65ddcf47",
+    "orderNumber": "BLC-32068-2559",
+    "customDesignId": "dsgn_1791871031872_4f5672bf",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T05:57:12.121Z\",\"orderNumber\":\"BLC-32068-2559\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"isBold\":false,\"isItalic\":false,\"isLocked\":false,\"zIndex\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T05:57:12.275Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T05:57:12.122Z",
+    "updatedAt": "2026-10-13T05:57:12.292Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdce501358750177816826",
+    "orderId": "6acdce501358750177816813",
+    "orderNumber": "BLC-92103-2290",
+    "customDesignId": "dsgn_1791872591888_1f8c3ac2",
+    "designVersion": 1,
+    "productName": "Archival Tokyo // Minimal Kanji Drop",
+    "selectedSize": "XL",
+    "selectedColor": {
+      "id": "white",
+      "name": "Optic White",
+      "hex": "#FFFFFF"
+    },
+    "quantity": 1,
+    "printLocations": [
+      "front"
+    ],
+    "productionArtwork": {
+      "frontHighResUrl": "/uploads/previews/mock_front.png",
+      "backHighResUrl": "",
+      "previewThumbnail": "/uploads/previews/mock_front.png",
+      "manifestUrl": "{\"specVersion\":\"1.0-POD-MANIFOLD\",\"generatedAt\":\"2026-10-13T06:23:12.143Z\",\"orderNumber\":\"BLC-92103-2290\",\"garment\":{\"type\":\"Heavyweight Boxy Unisex Tee (240 GSM)\",\"colorName\":\"Optic White\",\"colorHex\":\"#FFFFFF\",\"size\":\"XL\"},\"printAreaDimensions\":{\"widthInches\":12,\"heightInches\":16,\"targetDpi\":300,\"canvasPixelWidth\":3600,\"canvasPixelHeight\":4800},\"sides\":{\"front\":{\"enabled\":true,\"elementCount\":1,\"elements\":[{\"id\":\"el_txt_1\",\"type\":\"text\",\"assetId\":null,\"imageUrl\":null,\"originalFilename\":null,\"imageDpi\":300,\"text\":\"BLANC\\nATELIER\",\"fontFamily\":\"Cormorant Garamond\",\"fontSize\":36,\"colorHex\":\"#111111\",\"textAlign\":\"center\",\"letterSpacing\":0,\"isBold\":false,\"isItalic\":false,\"isLocked\":false,\"zIndex\":0,\"xPercent\":50,\"yPercent\":40,\"scale\":1,\"rotation\":0,\"widthPercent\":40,\"heightPercent\":40}],\"artworkUrl\":\"/uploads/previews/mock_front.png\"},\"back\":{\"enabled\":false}},\"prepressNotes\":[\"Check color profile: convert RGB to sRGB or CMYK based on Direct-to-Garment (DTG) RIP requirements.\",\"Preserve alpha channel transparency on PNG files.\",\"Pre-treat white and colored garments according to ink formulation.\"]}"
+    },
+    "providerMode": "manual",
+    "productionStatus": "completed",
+    "reviewNotes": "DPI and typography verified by Director.",
+    "rejectionReason": "",
+    "reviewedBy": "admin@blancatelier.com",
+    "reviewedAt": "2026-10-13T06:23:12.263Z",
+    "providerDetails": {
+      "providerName": "Internal Local Atelier",
+      "providerOrderId": null,
+      "providerStatus": null,
+      "submittedAt": null,
+      "lastSyncAt": null,
+      "rawResponse": null
+    },
+    "createdAt": "2026-10-13T06:23:12.145Z",
+    "updatedAt": "2026-10-13T06:23:12.278Z",
+    "__v": 0
+  }
+]

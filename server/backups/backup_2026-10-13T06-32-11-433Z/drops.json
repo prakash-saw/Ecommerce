@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "6acd00f5776c8478fc97ce6d",
+    "title": "DROP 01 // NOIR EXPERIMENTAL",
+    "slug": "drop-01-noir-experimental",
+    "tagline": "Limited run of 50 individually numbered 260 GSM Supima silhouettes.",
+    "description": "A monolithic exploration of ultra-heavyweight Japanese combed cotton. Hand-cut boxy proportions with deep ribbed neckline and high-density screenprint finish.",
+    "bannerImage": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1600&q=80",
+    "launchAt": "2026-10-12T13:47:01.174Z",
+    "endsAt": "2026-10-19T15:47:01.174Z",
+    "isPublished": true,
+    "products": [
+      {
+        "product": "6accfa080e77865350736a90",
+        "dropPricePaise": 119900,
+        "dropStockLimit": 50,
+        "soldCount": 39,
+        "_id": "6acd00f5776c8478fc97ce6e"
+      }
+    ],
+    "subscribers": [],
+    "createdAt": "2026-10-12T15:47:01.176Z",
+    "updatedAt": "2026-10-12T16:46:55.554Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd00f5776c8478fc97ce6f",
+    "title": "DROP 02 // ARCHIVAL DISTORTION",
+    "slug": "drop-02-archival-distortion",
+    "tagline": "Upcoming curated series. Ultra-clean typography meets raw DTG prints.",
+    "description": "Constructed from bio-washed 240 GSM organic single jersey. Features micro-distressed typography on chest and high-contrast typographic back-print.",
+    "bannerImage": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1600&q=80",
+    "launchAt": "2026-10-15T15:47:01.174Z",
+    "endsAt": "2026-10-22T15:47:01.174Z",
+    "isPublished": true,
+    "products": [
+      {
+        "product": "6accfa080e77865350736ab3",
+        "dropPricePaise": 129900,
+        "dropStockLimit": 75,
+        "soldCount": 0,
+        "_id": "6acd00f5776c8478fc97ce70"
+      }
+    ],
+    "subscribers": [
+      {
+        "email": "prakash77saw@gmail.com3",
+        "subscribedAt": "2026-10-12T15:50:21.599Z",
+        "_id": "6acd01bddce2d5406f784091"
+      }
+    ],
+    "createdAt": "2026-10-12T15:47:01.176Z",
+    "updatedAt": "2026-10-12T15:50:21.602Z",
+    "__v": 1
+  }
+]

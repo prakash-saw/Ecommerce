@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "6acd0821780b21df35a91d14",
+    "name": "Heavyweight Boxy Essentials",
+    "slug": "heavyweight-boxy-essentials",
+    "description": "Architectural streetwear foundations engineered from 240 GSM organic cotton.",
+    "bannerImage": "https://images.unsplash.com/photo-1523381294911-8d3cead13475?auto=format&fit=crop&w=1200&q=80",
+    "featuredOnHome": true,
+    "sortOrder": 0,
+    "products": [
+      "6accfa080e77865350736a90",
+      "6accfa080e77865350736ab3",
+      "6accfa080e77865350736ad5",
+      "6accfa080e77865350736af6",
+      "6accfa080e77865350736b17"
+    ],
+    "status": "published",
+    "createdAt": "2026-10-12T16:17:37.077Z",
+    "updatedAt": "2026-10-12T16:17:37.077Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acd0821780b21df35a91d15",
+    "name": "Graphic Typography Series",
+    "slug": "graphic-typography-series",
+    "description": "Minimalist philosophical quotes and architectural blueprint graphics.",
+    "bannerImage": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1200&q=80",
+    "featuredOnHome": true,
+    "sortOrder": 0,
+    "products": [
+      "6accfa080e77865350736ab3",
+      "6accfa080e77865350736ad5",
+      "6accfa080e77865350736af6",
+      "6accfa080e77865350736b17"
+    ],
+    "status": "published",
+    "createdAt": "2026-10-12T16:17:37.077Z",
+    "updatedAt": "2026-10-12T16:17:37.077Z",
+    "__v": 0
+  }
+]

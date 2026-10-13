@@ -1,0 +1,301 @@
+[
+  {
+    "_id": "6accfa0a0e77865350736b3a",
+    "userId": "6accfa920e77865350736c49",
+    "sessionId": "sess_1791816071538_lagx0qw",
+    "products": [
+      "6acd1020a2e63a0c5871e283"
+    ],
+    "createdAt": "2026-10-12T15:17:30.019Z",
+    "updatedAt": "2026-10-12T16:51:55.452Z",
+    "__v": 13
+  },
+  {
+    "_id": "6accfa210e77865350736b7f",
+    "userId": "6accfa200e77865350736b5d",
+    "sessionId": "sess_1791818272715",
+    "products": [],
+    "createdAt": "2026-10-12T15:17:53.012Z",
+    "updatedAt": "2026-10-12T15:17:53.031Z",
+    "__v": 2
+  },
+  {
+    "_id": "6accfa290e77865350736c1f",
+    "userId": "6accfa290e77865350736bde",
+    "sessionId": "sess_1791818281419",
+    "products": [],
+    "createdAt": "2026-10-12T15:18:01.884Z",
+    "updatedAt": "2026-10-12T15:18:01.916Z",
+    "__v": 2
+  },
+  {
+    "_id": "6accfbc60e77865350736ceb",
+    "userId": "6accfbc60e77865350736ca8",
+    "sessionId": "sess_1791818693944",
+    "products": [],
+    "createdAt": "2026-10-12T15:24:54.482Z",
+    "updatedAt": "2026-10-12T15:24:54.513Z",
+    "__v": 2
+  },
+  {
+    "_id": "6accfcd10e77865350736ec0",
+    "userId": "6accfcd10e77865350736e7d",
+    "sessionId": "sess_1791818961465",
+    "products": [],
+    "createdAt": "2026-10-12T15:29:21.876Z",
+    "updatedAt": "2026-10-12T15:29:21.898Z",
+    "__v": 2
+  },
+  {
+    "_id": "6accfd380e77865350736f40",
+    "userId": "6accfd370e77865350736f00",
+    "sessionId": "sess_1791819063841",
+    "products": [],
+    "createdAt": "2026-10-12T15:31:04.227Z",
+    "updatedAt": "2026-10-12T15:31:04.243Z",
+    "__v": 2
+  },
+  {
+    "_id": "6accfffa0e77865350737155",
+    "userId": "6accfffa0e77865350737113",
+    "sessionId": "sess_1791819770541",
+    "products": [],
+    "createdAt": "2026-10-12T15:42:50.981Z",
+    "updatedAt": "2026-10-12T15:42:51.003Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd00140e778653507371d9",
+    "userId": "6acd00130e7786535073719a",
+    "sessionId": "sess_1791819795842",
+    "products": [],
+    "createdAt": "2026-10-12T15:43:16.251Z",
+    "updatedAt": "2026-10-12T15:43:16.268Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd008f0e7786535073724b",
+    "userId": "6acd008e0e77865350737209",
+    "sessionId": "sess_1791819918824",
+    "products": [],
+    "createdAt": "2026-10-12T15:45:19.331Z",
+    "updatedAt": "2026-10-12T15:45:19.361Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd038cdce2d5406f784433",
+    "userId": "6acd038cdce2d5406f7843b8",
+    "sessionId": "sess_1791820684511",
+    "products": [],
+    "createdAt": "2026-10-12T15:58:04.946Z",
+    "updatedAt": "2026-10-12T15:58:05.081Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd041edce2d5406f78493d",
+    "userId": "6acd041edce2d5406f7848c2",
+    "sessionId": "sess_1791820829990",
+    "products": [],
+    "createdAt": "2026-10-12T16:00:30.572Z",
+    "updatedAt": "2026-10-12T16:00:30.623Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd043edce2d5406f784af1",
+    "userId": "6acd043edce2d5406f784a83",
+    "sessionId": "sess_1791820862454",
+    "products": [],
+    "createdAt": "2026-10-12T16:01:02.950Z",
+    "updatedAt": "2026-10-12T16:01:02.988Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd0493dce2d5406f784c3d",
+    "userId": "6acd0493dce2d5406f784bd0",
+    "sessionId": "sess_1791820946881",
+    "products": [],
+    "createdAt": "2026-10-12T16:02:27.310Z",
+    "updatedAt": "2026-10-12T16:02:27.340Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd06a7dce2d5406f784f01",
+    "userId": "6acd06a7dce2d5406f784e9a",
+    "sessionId": "sess_1791821478865",
+    "products": [],
+    "createdAt": "2026-10-12T16:11:19.459Z",
+    "updatedAt": "2026-10-12T16:11:19.497Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd082763ce9371be95a049",
+    "userId": "6acd082663ce9371be959fce",
+    "sessionId": "sess_1791821862789",
+    "products": [],
+    "createdAt": "2026-10-12T16:17:43.262Z",
+    "updatedAt": "2026-10-12T16:17:43.458Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdb448cb6ccb69cd533c5d",
+    "userId": "6acdb448cb6ccb69cd533c14",
+    "sessionId": "sess_1791865928486",
+    "products": [],
+    "createdAt": "2026-10-13T04:32:08.857Z",
+    "updatedAt": "2026-10-13T04:32:08.890Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdb813308ff11618ee4430",
+    "userId": "6acdb813308ff11618ee43c7",
+    "sessionId": "sess_1791866899286",
+    "products": [],
+    "createdAt": "2026-10-13T04:48:19.652Z",
+    "updatedAt": "2026-10-13T04:48:19.677Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdb9c12d4311a769a5233b",
+    "userId": "6acdb9c02d4311a769a522d5",
+    "sessionId": "sess_1791867328579",
+    "products": [],
+    "createdAt": "2026-10-13T04:55:29.244Z",
+    "updatedAt": "2026-10-13T04:55:29.292Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdb9cb328b2ff6a96504cd",
+    "userId": "6acdb9cb328b2ff6a965046c",
+    "sessionId": "sess_1791867338988",
+    "products": [],
+    "createdAt": "2026-10-13T04:55:39.714Z",
+    "updatedAt": "2026-10-13T04:55:39.761Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdb9e895fb0452a38d99f7",
+    "userId": "6acdb9e895fb0452a38d998f",
+    "sessionId": "sess_1791867367916",
+    "products": [],
+    "createdAt": "2026-10-13T04:56:08.609Z",
+    "updatedAt": "2026-10-13T04:56:08.651Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdbe2bbea11980c4588e6f",
+    "userId": "6acdbe29bea11980c4588dfb",
+    "sessionId": "sess_1791868457571",
+    "products": [],
+    "createdAt": "2026-10-13T05:14:19.105Z",
+    "updatedAt": "2026-10-13T05:14:19.158Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdbe72cfb33098e4a8e22f",
+    "userId": "6acdbe71cfb33098e4a8e1d6",
+    "sessionId": "sess_1791868527327",
+    "products": [],
+    "createdAt": "2026-10-13T05:15:30.730Z",
+    "updatedAt": "2026-10-13T05:15:30.962Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdbeed9a438128d898020d",
+    "userId": "6acdbeed9a438128d89801a2",
+    "sessionId": "sess_1791868652781",
+    "products": [],
+    "createdAt": "2026-10-13T05:17:33.507Z",
+    "updatedAt": "2026-10-13T05:17:33.551Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdbefb099013f59ded6fe3",
+    "userId": "6acdbefb099013f59ded6f77",
+    "sessionId": "sess_1791868666853",
+    "products": [],
+    "createdAt": "2026-10-13T05:17:47.563Z",
+    "updatedAt": "2026-10-13T05:17:47.607Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdbff3c71ca33ad9175529",
+    "userId": "6acdbff2c71ca33ad91754be",
+    "sessionId": "sess_1791868914662",
+    "products": [],
+    "createdAt": "2026-10-13T05:21:55.478Z",
+    "updatedAt": "2026-10-13T05:21:55.529Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdc1b5a157fac8e6245d46",
+    "userId": "6acdc1b5a157fac8e6245cde",
+    "sessionId": "sess_1791869364803",
+    "products": [],
+    "createdAt": "2026-10-13T05:29:25.568Z",
+    "updatedAt": "2026-10-13T05:29:25.629Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdc32696507afe28268074",
+    "userId": "6acdc32696507afe2826800a",
+    "sessionId": "sess_1791869733748",
+    "products": [],
+    "createdAt": "2026-10-13T05:35:34.451Z",
+    "updatedAt": "2026-10-13T05:35:34.504Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdc35d1bfc6600190a1843",
+    "userId": "6acdc35c1bfc6600190a17d9",
+    "sessionId": "sess_1791869788328",
+    "products": [],
+    "createdAt": "2026-10-13T05:36:29.027Z",
+    "updatedAt": "2026-10-13T05:36:29.080Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdc38fa6151a053a6fc5f6",
+    "userId": null,
+    "sessionId": "sess_1791869838978_nvb02ps",
+    "products": [],
+    "createdAt": "2026-10-13T05:37:19.037Z",
+    "updatedAt": "2026-10-13T05:37:19.037Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acdc3a29382b37d797bd50a",
+    "userId": "6acdc3a29382b37d797bd4a0",
+    "sessionId": "sess_1791869858095",
+    "products": [],
+    "createdAt": "2026-10-13T05:37:38.822Z",
+    "updatedAt": "2026-10-13T05:37:38.868Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdc3c83304fabb637c9c5b",
+    "userId": "6acdc3c73304fabb637c9bf2",
+    "sessionId": "sess_1791869895601",
+    "products": [],
+    "createdAt": "2026-10-13T05:38:16.367Z",
+    "updatedAt": "2026-10-13T05:38:16.419Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdc83815b0de2e63154745",
+    "userId": "6acdc83715b0de2e631546d9",
+    "sessionId": "sess_1791871031618",
+    "products": [],
+    "createdAt": "2026-10-13T05:57:12.239Z",
+    "updatedAt": "2026-10-13T05:57:12.284Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdce509fe19401523588d9",
+    "userId": "6acdce4f9fe1940152358863",
+    "sessionId": "sess_1791872591648",
+    "products": [],
+    "createdAt": "2026-10-13T06:23:12.256Z",
+    "updatedAt": "2026-10-13T06:23:12.290Z",
+    "__v": 2
+  }
+]

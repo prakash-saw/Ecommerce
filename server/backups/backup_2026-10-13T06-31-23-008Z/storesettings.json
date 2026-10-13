@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "6acd07c963ce9371be959fa2",
+    "storeName": "BLANC ATELIER",
+    "tagline": "Architectural Minimalist Streetwear & Studio POD",
+    "contactEmail": "concierge@blancatelier.com",
+    "supportPhone": "+91 98765 43210",
+    "whatsappNumber": "+91 98765 43210",
+    "currencyCode": "INR",
+    "currencySymbol": "₹",
+    "lowStockThreshold": 10,
+    "announcementText": "Complimentary standard shipping on all orders over ₹999 across India.",
+    "announcementEnabled": true,
+    "freeShippingThresholdPaise": 99900,
+    "apparelGSTPercent": 5,
+    "reviewAutoModerationThreshold": 3,
+    "podAutoApprovalDPI": 200,
+    "createdAt": "2026-10-12T16:16:09.213Z",
+    "updatedAt": "2026-10-12T16:16:09.213Z",
+    "__v": 0
+  }
+]

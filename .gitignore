@@ -1,0 +1,10 @@
+node_modules/
+.env
+dist/
+uploads/artwork/art_*
+uploads/previews/preview_*
+uploads/previews/thumb_*
+uploads/previews/front_*
+uploads/previews/back_*
+.DS_Store
+*.log

@@ -1,0 +1,840 @@
+[
+  {
+    "_id": "6accfa0a0e77865350736b3c",
+    "userId": "6accfa920e77865350736c49",
+    "sessionId": "sess_1791816071538_lagx0qw",
+    "items": [
+      {
+        "itemId": "item_1791870125033_5bc3bead",
+        "productId": "6acd1020a2e63a0c5871e283",
+        "productName": "hiii",
+        "productSlug": "body-sody",
+        "isCustom": false,
+        "customDesignId": null,
+        "designVersion": 1,
+        "selectedSize": "L",
+        "selectedColor": {
+          "id": "blanc-white",
+          "name": "Blanc White",
+          "hex": "#FDFBF7"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "https://tse4.mm.bing.net/th/id/OIP.I82iWxE7axsgdkmlExeAgAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "quantity": 2,
+        "unitPricePaise": 25400,
+        "lineTotalPaise": 50800
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T15:17:30.020Z",
+    "updatedAt": "2026-10-13T05:51:25.844Z",
+    "__v": 25
+  },
+  {
+    "_id": "6accfa290e77865350736be8",
+    "userId": null,
+    "sessionId": "test_sess_1791818281397",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T15:18:01.582Z",
+    "updatedAt": "2026-10-12T15:18:01.695Z",
+    "__v": 2
+  },
+  {
+    "_id": "6accfbc60e77865350736caf",
+    "userId": null,
+    "sessionId": "test_sess_1791818693906",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T15:24:54.144Z",
+    "updatedAt": "2026-10-12T15:24:54.185Z",
+    "__v": 2
+  },
+  {
+    "_id": "6accfcd10e77865350736e84",
+    "userId": null,
+    "sessionId": "test_sess_1791818961436",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T15:29:21.606Z",
+    "updatedAt": "2026-10-12T15:29:21.632Z",
+    "__v": 2
+  },
+  {
+    "_id": "6accfd370e77865350736efd",
+    "userId": null,
+    "sessionId": "test_sess_1791819063811",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T15:31:03.898Z",
+    "updatedAt": "2026-10-12T15:31:03.988Z",
+    "__v": 2
+  },
+  {
+    "_id": "6accfffa0e7786535073711e",
+    "userId": null,
+    "sessionId": "test_sess_1791819770522",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T15:42:50.703Z",
+    "updatedAt": "2026-10-12T15:42:50.733Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd00130e77865350737196",
+    "userId": null,
+    "sessionId": "test_sess_1791819795812",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T15:43:15.905Z",
+    "updatedAt": "2026-10-12T15:43:15.998Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd008e0e77865350737214",
+    "userId": null,
+    "sessionId": "test_sess_1791819918804",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T15:45:18.998Z",
+    "updatedAt": "2026-10-12T15:45:19.126Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd038cdce2d5406f7843d2",
+    "userId": null,
+    "sessionId": "test_sess_1791820684486",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T15:58:04.694Z",
+    "updatedAt": "2026-10-12T15:58:04.906Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd041edce2d5406f7848da",
+    "userId": null,
+    "sessionId": "test_sess_1791820829964",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T16:00:30.151Z",
+    "updatedAt": "2026-10-12T16:00:30.216Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd043edce2d5406f784a8d",
+    "userId": null,
+    "sessionId": "test_sess_1791820862419",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T16:01:02.615Z",
+    "updatedAt": "2026-10-12T16:01:02.655Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd0493dce2d5406f784bda",
+    "userId": null,
+    "sessionId": "test_sess_1791820946853",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T16:02:27.033Z",
+    "updatedAt": "2026-10-12T16:02:27.062Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd06a6dce2d5406f784e97",
+    "userId": null,
+    "sessionId": "test_sess_1791821478817",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T16:11:18.982Z",
+    "updatedAt": "2026-10-12T16:11:19.124Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acd082663ce9371be959fe9",
+    "userId": null,
+    "sessionId": "test_sess_1791821862757",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": null,
+    "createdAt": "2026-10-12T16:17:42.988Z",
+    "updatedAt": "2026-10-12T16:17:43.210Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdb84f9da42d33171f6336",
+    "userId": null,
+    "sessionId": "test_sess_1791866959446",
+    "items": [
+      {
+        "itemId": "item_1791866959593_4e2d65bf",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791866959565_6e17cb75",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T04:49:19.592Z",
+    "updatedAt": "2026-10-13T04:49:19.595Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdb8766300669ab0a66585",
+    "userId": null,
+    "sessionId": "test_sess_1791866998378",
+    "items": [
+      {
+        "itemId": "item_1791866998531_d11c2c3d",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791866998497_136c01fa",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T04:49:58.530Z",
+    "updatedAt": "2026-10-13T04:49:58.532Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdb9c086895740305d3c58",
+    "userId": null,
+    "sessionId": "test_sess_1791867328514",
+    "items": [
+      {
+        "itemId": "item_1791867328833_d0648529",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791867328776_ae20353c",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T04:55:28.831Z",
+    "updatedAt": "2026-10-13T04:55:28.837Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdb9cbac7debd1e1393a8c",
+    "userId": null,
+    "sessionId": "test_sess_1791867338991",
+    "items": [
+      {
+        "itemId": "item_1791867339318_8ae6d3a3",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791867339252_8c38631b",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T04:55:39.316Z",
+    "updatedAt": "2026-10-13T04:55:39.321Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdb9e8c979ee515c41a265",
+    "userId": null,
+    "sessionId": "test_sess_1791867367980",
+    "items": [
+      {
+        "itemId": "item_1791867368285_2ba7862a",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791867368229_21873af5",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T04:56:08.283Z",
+    "updatedAt": "2026-10-13T04:56:08.288Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdbe29bea11980c4588e0d",
+    "userId": null,
+    "sessionId": "test_sess_1791868457529",
+    "items": [
+      {
+        "itemId": "item_1791868457839_82ed1804",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868457641_9d216062",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:14:17.836Z",
+    "updatedAt": "2026-10-13T05:14:17.842Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdbe70cfb33098e4a8e1ca",
+    "userId": null,
+    "sessionId": "test_sess_1791868527274",
+    "items": [
+      {
+        "itemId": "item_1791868528747_3282f8a5",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868527796_d915c6d0",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:15:28.734Z",
+    "updatedAt": "2026-10-13T05:15:28.790Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdbeed7df6cdc9c2d1e864",
+    "userId": null,
+    "sessionId": "test_sess_1791868652781",
+    "items": [
+      {
+        "itemId": "item_1791868653109_1f951014",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868653034_d8a1b8d9",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:17:33.107Z",
+    "updatedAt": "2026-10-13T05:17:33.111Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdbefbcf771d6504e37b92",
+    "userId": null,
+    "sessionId": "test_sess_1791868666834",
+    "items": [
+      {
+        "itemId": "item_1791868667182_dfb11b84",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868667108_16292bee",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:17:47.179Z",
+    "updatedAt": "2026-10-13T05:17:47.186Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdbff33c52973bceaa54c1",
+    "userId": null,
+    "sessionId": "test_sess_1791868914683",
+    "items": [
+      {
+        "itemId": "item_1791868915082_97d1ab11",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791868914963_c6509925",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:21:55.079Z",
+    "updatedAt": "2026-10-13T05:21:55.090Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc1b501bb19ba97c7e820",
+    "userId": null,
+    "sessionId": "test_sess_1791869364807",
+    "items": [
+      {
+        "itemId": "item_1791869365168_49fe773d",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869365080_180141e2",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:29:25.165Z",
+    "updatedAt": "2026-10-13T05:29:25.172Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc32625c6d009c64d32ee",
+    "userId": null,
+    "sessionId": "test_sess_1791869733718",
+    "items": [
+      {
+        "itemId": "item_1791869734033_0b62b31c",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869733958_00332c60",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:35:34.030Z",
+    "updatedAt": "2026-10-13T05:35:34.036Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc35cc956be73c7edb0b0",
+    "userId": null,
+    "sessionId": "test_sess_1791869788250",
+    "items": [
+      {
+        "itemId": "item_1791869788655_b4ceca66",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869788570_752d3fb2",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:36:28.654Z",
+    "updatedAt": "2026-10-13T05:36:28.659Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc38fa6151a053a6fc5f8",
+    "userId": null,
+    "sessionId": "sess_1791869838978_nvb02ps",
+    "items": [],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:37:19.061Z",
+    "updatedAt": "2026-10-13T05:55:46.816Z",
+    "__v": 2
+  },
+  {
+    "_id": "6acdc3a2cfb877a04fc1db43",
+    "userId": null,
+    "sessionId": "test_sess_1791869858011",
+    "items": [
+      {
+        "itemId": "item_1791869858407_277d4a51",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869858291_c6f98ea3",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:37:38.404Z",
+    "updatedAt": "2026-10-13T05:37:38.410Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc3c7dd71481bb0968822",
+    "userId": null,
+    "sessionId": "test_sess_1791869895586",
+    "items": [
+      {
+        "itemId": "item_1791869895980_1e0f2da4",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791869895890_68c68ec7",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:38:15.977Z",
+    "updatedAt": "2026-10-13T05:38:15.985Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdc8374c4d309f65ddcf2f",
+    "userId": null,
+    "sessionId": "test_sess_1791871031617",
+    "items": [
+      {
+        "itemId": "item_1791871031921_23b8f4a0",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791871031872_4f5672bf",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T05:57:11.919Z",
+    "updatedAt": "2026-10-13T05:57:11.924Z",
+    "__v": 1
+  },
+  {
+    "_id": "6acdce4f13587501778167fb",
+    "userId": null,
+    "sessionId": "test_sess_1791872591637",
+    "items": [
+      {
+        "itemId": "item_1791872591946_854b65c9",
+        "productId": "6accfa080e77865350736b17",
+        "productName": "Archival Tokyo // Minimal Kanji Drop",
+        "productSlug": "archival-tokyo-kanji-tee",
+        "isCustom": true,
+        "customDesignId": "dsgn_1791872591888_1f8c3ac2",
+        "designVersion": 1,
+        "selectedSize": "XL",
+        "selectedColor": {
+          "id": "white",
+          "name": "Optic White",
+          "hex": "#FFFFFF"
+        },
+        "printLocations": [
+          "front"
+        ],
+        "previewImageUrl": "/uploads/previews/mock_front.png",
+        "quantity": 1,
+        "unitPricePaise": 144200,
+        "lineTotalPaise": 144200
+      }
+    ],
+    "subtotalPaise": 0,
+    "appliedCoupon": {
+      "code": null,
+      "discountPercentage": 0,
+      "discountPaise": 0
+    },
+    "createdAt": "2026-10-13T06:23:11.944Z",
+    "updatedAt": "2026-10-13T06:23:11.949Z",
+    "__v": 1
+  }
+]

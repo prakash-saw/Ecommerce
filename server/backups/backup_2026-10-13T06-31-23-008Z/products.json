@@ -1,0 +1,567 @@
+[
+  {
+    "_id": "6accfa080e77865350736a90",
+    "name": "The Custom Heavyweight Blank Tee",
+    "slug": "custom-heavyweight-blank-tee",
+    "description": "Engineered specifically for custom high-density DTG and screen printing. Crafted from 240 GSM pure combed cotton with a structured drop-shoulder drape and tight ribbed collar that retains shape wash after wash.",
+    "shortDescription": "240 GSM French Terry Cotton. The ultimate foundation for your custom graphics.",
+    "basePricePaise": 69900,
+    "category": "custom_blank",
+    "fabric": {
+      "gsm": 240,
+      "material": "100% Combed Compact Cotton",
+      "fit": "Relaxed Boxy / Drop Shoulder",
+      "finish": "Bio-Washed Pre-Shrunk Single Jersey",
+      "care": [
+        "Machine wash cold inside out",
+        "Do not iron directly on print",
+        "Dry flat in shade"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Front Optic White T-shirt",
+        "isPrimary": true,
+        "view": "front",
+        "_id": "6accfa080e77865350736a91"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Back View T-shirt",
+        "isPrimary": false,
+        "view": "back",
+        "_id": "6accfa080e77865350736a92"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Fabric Detail Closeup",
+        "isPrimary": false,
+        "view": "detail",
+        "_id": "6accfa080e77865350736a93"
+      }
+    ],
+    "isCustomizable": true,
+    "printableArea": {
+      "frontEnabled": true,
+      "backEnabled": true,
+      "widthInches": 12,
+      "heightInches": 16,
+      "topPercent": 24,
+      "leftPercent": 28,
+      "widthPercent": 44,
+      "heightPercent": 54
+    },
+    "featured": true,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.805Z",
+    "updatedAt": "2026-10-12T15:47:01.140Z",
+    "__v": 1,
+    "sizeChart": [
+      {
+        "size": "S",
+        "chestCm": 102,
+        "lengthCm": 69,
+        "shoulderCm": 48,
+        "sleeveCm": 21,
+        "_id": "6acd00f5776c8478fc97ce4d"
+      },
+      {
+        "size": "M",
+        "chestCm": 108,
+        "lengthCm": 71,
+        "shoulderCm": 50,
+        "sleeveCm": 22,
+        "_id": "6acd00f5776c8478fc97ce4e"
+      },
+      {
+        "size": "L",
+        "chestCm": 114,
+        "lengthCm": 74,
+        "shoulderCm": 52,
+        "sleeveCm": 23,
+        "_id": "6acd00f5776c8478fc97ce4f"
+      },
+      {
+        "size": "XL",
+        "chestCm": 120,
+        "lengthCm": 76,
+        "shoulderCm": 55,
+        "sleeveCm": 24,
+        "_id": "6acd00f5776c8478fc97ce50"
+      },
+      {
+        "size": "XXL",
+        "chestCm": 126,
+        "lengthCm": 78,
+        "shoulderCm": 58,
+        "sleeveCm": 25,
+        "_id": "6acd00f5776c8478fc97ce51"
+      }
+    ]
+  },
+  {
+    "_id": "6accfa080e77865350736ab3",
+    "name": "Typography 01 // \"ESSENCE\" Heavyweight Tee",
+    "slug": "essence-typography-tee",
+    "description": "Understated Swiss typography paired with archival coordinates on optic white jersey. Screen printed with soft-hand eco inks that integrate directly into the cotton fibers without heavy plastic sheen.",
+    "shortDescription": "Minimalist editorial graphic tee in 240 GSM combed cotton.",
+    "basePricePaise": 99900,
+    "category": "ready_to_wear",
+    "fabric": {
+      "gsm": 240,
+      "material": "100% Organic Cotton",
+      "fit": "Boxy Silhouette",
+      "finish": "Silicon Softener Washed",
+      "care": [
+        "Cold wash only",
+        "Iron inside out",
+        "Line dry"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Essence Graphic Front",
+        "isPrimary": true,
+        "view": "front",
+        "_id": "6accfa080e77865350736ab4"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Back view",
+        "isPrimary": false,
+        "view": "back",
+        "_id": "6accfa080e77865350736ab5"
+      }
+    ],
+    "isCustomizable": true,
+    "printableArea": {
+      "frontEnabled": true,
+      "backEnabled": true,
+      "widthInches": 12,
+      "heightInches": 16,
+      "topPercent": 25,
+      "leftPercent": 28,
+      "widthPercent": 44,
+      "heightPercent": 56
+    },
+    "featured": true,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.850Z",
+    "updatedAt": "2026-10-12T15:47:01.158Z",
+    "__v": 1,
+    "sizeChart": [
+      {
+        "size": "S",
+        "chestCm": 102,
+        "lengthCm": 69,
+        "shoulderCm": 48,
+        "sleeveCm": 21,
+        "_id": "6acd00f5776c8478fc97ce53"
+      },
+      {
+        "size": "M",
+        "chestCm": 108,
+        "lengthCm": 71,
+        "shoulderCm": 50,
+        "sleeveCm": 22,
+        "_id": "6acd00f5776c8478fc97ce54"
+      },
+      {
+        "size": "L",
+        "chestCm": 114,
+        "lengthCm": 74,
+        "shoulderCm": 52,
+        "sleeveCm": 23,
+        "_id": "6acd00f5776c8478fc97ce55"
+      },
+      {
+        "size": "XL",
+        "chestCm": 120,
+        "lengthCm": 76,
+        "shoulderCm": 55,
+        "sleeveCm": 24,
+        "_id": "6acd00f5776c8478fc97ce56"
+      },
+      {
+        "size": "XXL",
+        "chestCm": 126,
+        "lengthCm": 78,
+        "shoulderCm": 58,
+        "sleeveCm": 25,
+        "_id": "6acd00f5776c8478fc97ce57"
+      }
+    ]
+  },
+  {
+    "_id": "6accfa080e77865350736ad5",
+    "name": "Bauhaus Geometry // \"FORM FOLLOWS\" Tee",
+    "slug": "bauhaus-form-follows-tee",
+    "description": "Architectural minimalism celebrating modernist design principles. Features precise micro-line geometry printed with pigment discharge technique for zero ink hand-feel.",
+    "shortDescription": "Constructivist geometric graphic on warm off-white heavyweight cotton.",
+    "basePricePaise": 109900,
+    "category": "ready_to_wear",
+    "fabric": {
+      "gsm": 250,
+      "material": "100% Cotton Heavy Jersey",
+      "fit": "Oversized Streetwear Cut",
+      "finish": "Bio-Washed",
+      "care": [
+        "Gentle cycle",
+        "Do not bleach",
+        "Do not tumble dry"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Bauhaus Tee Front",
+        "isPrimary": true,
+        "view": "front",
+        "_id": "6accfa080e77865350736ad6"
+      }
+    ],
+    "isCustomizable": true,
+    "printableArea": {
+      "frontEnabled": true,
+      "backEnabled": true,
+      "widthInches": 12,
+      "heightInches": 16,
+      "topPercent": 25,
+      "leftPercent": 28,
+      "widthPercent": 44,
+      "heightPercent": 56
+    },
+    "featured": true,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.897Z",
+    "updatedAt": "2026-10-12T15:47:01.161Z",
+    "__v": 1,
+    "sizeChart": [
+      {
+        "size": "S",
+        "chestCm": 102,
+        "lengthCm": 69,
+        "shoulderCm": 48,
+        "sleeveCm": 21,
+        "_id": "6acd00f5776c8478fc97ce59"
+      },
+      {
+        "size": "M",
+        "chestCm": 108,
+        "lengthCm": 71,
+        "shoulderCm": 50,
+        "sleeveCm": 22,
+        "_id": "6acd00f5776c8478fc97ce5a"
+      },
+      {
+        "size": "L",
+        "chestCm": 114,
+        "lengthCm": 74,
+        "shoulderCm": 52,
+        "sleeveCm": 23,
+        "_id": "6acd00f5776c8478fc97ce5b"
+      },
+      {
+        "size": "XL",
+        "chestCm": 120,
+        "lengthCm": 76,
+        "shoulderCm": 55,
+        "sleeveCm": 24,
+        "_id": "6acd00f5776c8478fc97ce5c"
+      },
+      {
+        "size": "XXL",
+        "chestCm": 126,
+        "lengthCm": 78,
+        "shoulderCm": 58,
+        "sleeveCm": 25,
+        "_id": "6acd00f5776c8478fc97ce5d"
+      }
+    ]
+  },
+  {
+    "_id": "6accfa080e77865350736af6",
+    "name": "The Monolith // Subtle Chest Monogram Tee",
+    "slug": "monolith-monogram-tee",
+    "description": "For those who prefer restraint. A singular 1-inch tonal emblem placed centrally below the collarbone. Clean, timeless, effortlessly elevated.",
+    "shortDescription": "Subtle tonal embroidered monogram on pristine white cotton.",
+    "basePricePaise": 89900,
+    "category": "ready_to_wear",
+    "fabric": {
+      "gsm": 240,
+      "material": "100% Combed Cotton",
+      "fit": "Classic Relaxed",
+      "finish": "Pre-shrunk",
+      "care": [
+        "Machine wash cold",
+        "Warm iron if needed"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Monolith Front",
+        "isPrimary": true,
+        "view": "front",
+        "_id": "6accfa080e77865350736af7"
+      }
+    ],
+    "isCustomizable": true,
+    "printableArea": {
+      "frontEnabled": true,
+      "backEnabled": true,
+      "widthInches": 12,
+      "heightInches": 16,
+      "topPercent": 25,
+      "leftPercent": 28,
+      "widthPercent": 44,
+      "heightPercent": 56
+    },
+    "featured": false,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.939Z",
+    "updatedAt": "2026-10-12T15:47:01.165Z",
+    "__v": 1,
+    "sizeChart": [
+      {
+        "size": "S",
+        "chestCm": 102,
+        "lengthCm": 69,
+        "shoulderCm": 48,
+        "sleeveCm": 21,
+        "_id": "6acd00f5776c8478fc97ce5f"
+      },
+      {
+        "size": "M",
+        "chestCm": 108,
+        "lengthCm": 71,
+        "shoulderCm": 50,
+        "sleeveCm": 22,
+        "_id": "6acd00f5776c8478fc97ce60"
+      },
+      {
+        "size": "L",
+        "chestCm": 114,
+        "lengthCm": 74,
+        "shoulderCm": 52,
+        "sleeveCm": 23,
+        "_id": "6acd00f5776c8478fc97ce61"
+      },
+      {
+        "size": "XL",
+        "chestCm": 120,
+        "lengthCm": 76,
+        "shoulderCm": 55,
+        "sleeveCm": 24,
+        "_id": "6acd00f5776c8478fc97ce62"
+      },
+      {
+        "size": "XXL",
+        "chestCm": 126,
+        "lengthCm": 78,
+        "shoulderCm": 58,
+        "sleeveCm": 25,
+        "_id": "6acd00f5776c8478fc97ce63"
+      }
+    ]
+  },
+  {
+    "_id": "6accfa080e77865350736b17",
+    "name": "Archival Tokyo // Minimal Kanji Drop",
+    "slug": "archival-tokyo-kanji-tee",
+    "description": "Inspired by Japanese editorial layout and Ginza typography. High-density pigment print on back shoulder blade with clean pocket print on front.",
+    "shortDescription": "Front chest and back shoulder dual-location graphic print.",
+    "basePricePaise": 119200,
+    "category": "ready_to_wear",
+    "fabric": {
+      "gsm": 260,
+      "material": "100% Supima Cotton",
+      "fit": "Drop Shoulder Boxy",
+      "finish": "Carbon-Brushed Ultra-Soft",
+      "care": [
+        "Wash cold inside out",
+        "Flat air dry"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Archival Tokyo // Minimal Kanji Drop",
+        "isPrimary": true,
+        "view": "front",
+        "_id": "6acd0fd4a2e63a0c5871e25a"
+      }
+    ],
+    "isCustomizable": true,
+    "printableArea": {
+      "frontEnabled": true,
+      "backEnabled": true,
+      "widthInches": 12,
+      "heightInches": 16,
+      "topPercent": 25,
+      "leftPercent": 28,
+      "widthPercent": 44,
+      "heightPercent": 56
+    },
+    "featured": true,
+    "isActive": true,
+    "createdAt": "2026-10-12T15:17:28.980Z",
+    "updatedAt": "2026-10-12T16:50:28.254Z",
+    "__v": 2,
+    "sizeChart": [
+      {
+        "size": "S",
+        "chestCm": 102,
+        "lengthCm": 69,
+        "shoulderCm": 48,
+        "sleeveCm": 21,
+        "_id": "6acd00f5776c8478fc97ce65"
+      },
+      {
+        "size": "M",
+        "chestCm": 108,
+        "lengthCm": 71,
+        "shoulderCm": 50,
+        "sleeveCm": 22,
+        "_id": "6acd00f5776c8478fc97ce66"
+      },
+      {
+        "size": "L",
+        "chestCm": 114,
+        "lengthCm": 74,
+        "shoulderCm": 52,
+        "sleeveCm": 23,
+        "_id": "6acd00f5776c8478fc97ce67"
+      },
+      {
+        "size": "XL",
+        "chestCm": 120,
+        "lengthCm": 76,
+        "shoulderCm": 55,
+        "sleeveCm": 24,
+        "_id": "6acd00f5776c8478fc97ce68"
+      },
+      {
+        "size": "XXL",
+        "chestCm": 126,
+        "lengthCm": 78,
+        "shoulderCm": 58,
+        "sleeveCm": 25,
+        "_id": "6acd00f5776c8478fc97ce69"
+      }
+    ],
+    "productType": "ready_to_wear",
+    "seoDescription": "",
+    "seoTitle": "",
+    "status": "published",
+    "tags": []
+  },
+  {
+    "_id": "6acd1020a2e63a0c5871e283",
+    "name": "hiii",
+    "slug": "body-sody",
+    "description": "Engineered from heavyweight 240 GSM combed organic cotton with relaxed architectural drop-shoulder cut.",
+    "shortDescription": "Heavyweight organic cotton boxy streetwear tee.",
+    "basePricePaise": 25400,
+    "compareAtPricePaise": 10000000000,
+    "costPricePaise": 50000,
+    "category": "ready_to_wear",
+    "tags": [
+      "oversized",
+      "streetwear",
+      "organic"
+    ],
+    "productType": "ready_to_wear",
+    "status": "published",
+    "collectionId": null,
+    "fabric": {
+      "gsm": 240,
+      "material": "100% Combed Organic Cotton",
+      "fit": "Relaxed Boxy / Drop Shoulder",
+      "finish": "Bio-Washed Pre-Shrunk Single Jersey",
+      "care": [
+        "Machine wash cold inside out",
+        "Do not iron on print",
+        "Dry in shade"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://tse4.mm.bing.net/th/id/OIP.I82iWxE7axsgdkmlExeAgAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "alt": "hiii",
+        "isPrimary": true,
+        "view": "front",
+        "_id": "6acd1020a2e63a0c5871e284"
+      },
+      {
+        "url": "https://tse4.mm.bing.net/th/id/OIP.I82iWxE7axsgdkmlExeAgAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "alt": "hiii Back",
+        "isPrimary": false,
+        "view": "back",
+        "_id": "6acd1020a2e63a0c5871e285"
+      }
+    ],
+    "isCustomizable": false,
+    "printableArea": {
+      "frontEnabled": true,
+      "backEnabled": true,
+      "widthInches": 12,
+      "heightInches": 16,
+      "topPercent": 25,
+      "leftPercent": 28,
+      "widthPercent": 44,
+      "heightPercent": 56
+    },
+    "featured": false,
+    "isActive": true,
+    "seoTitle": "hiii",
+    "seoDescription": "Heavyweight organic cotton boxy streetwear tee.",
+    "sizeChart": [
+      {
+        "size": "S",
+        "chestCm": 102,
+        "lengthCm": 71,
+        "shoulderCm": 48,
+        "sleeveCm": 22,
+        "_id": "6acd1020a2e63a0c5871e286"
+      },
+      {
+        "size": "M",
+        "chestCm": 107,
+        "lengthCm": 74,
+        "shoulderCm": 50,
+        "sleeveCm": 23,
+        "_id": "6acd1020a2e63a0c5871e287"
+      },
+      {
+        "size": "L",
+        "chestCm": 112,
+        "lengthCm": 76,
+        "shoulderCm": 52,
+        "sleeveCm": 24,
+        "_id": "6acd1020a2e63a0c5871e288"
+      },
+      {
+        "size": "XL",
+        "chestCm": 117,
+        "lengthCm": 79,
+        "shoulderCm": 54,
+        "sleeveCm": 25,
+        "_id": "6acd1020a2e63a0c5871e289"
+      },
+      {
+        "size": "XXL",
+        "chestCm": 122,
+        "lengthCm": 81,
+        "shoulderCm": 56,
+        "sleeveCm": 26,
+        "_id": "6acd1020a2e63a0c5871e28a"
+      }
+    ],
+    "createdAt": "2026-10-12T16:51:44.706Z",
+    "updatedAt": "2026-10-12T16:51:44.706Z",
+    "__v": 0
+  }
+]
